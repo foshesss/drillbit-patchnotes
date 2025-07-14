@@ -47,7 +47,6 @@ QOL Changes:
 + Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership)
 + Recents tab for your most recent placed items
 + Ore wash now has a list of effects it cleans
-- You can no longer select items while in Build Mode. This was just a major painpoint and confusion.
 
 + On PC, 'Q' is now a global deselect-- used for exiting build mode, deselecting
 + On PC, 'MiddleMouseButton' is now a way to instantly start placing something you're hovering over
