@@ -1,56 +1,17 @@
-v1.1.0
-welcome back mobile and console
+v1.0.0
+Foshes Quest update!
 
 Changes:
-+ New Rebirth boxes, earn 1 strong box per rebirth. All high life players will be given boxes for their previous lives.
-+ Revamped Build Mode UI, now with more responsive animations, a better search, useful keybind actions, and more helpful categories.
-+ Mobile and Console are now supported.
-+ Creator tags in chat for recognized creators
-+ Crate storms, and global crates storms! Spawnable by machine in the middle of the map, will make a ton of crates spawn for 20 seconds. In addition, every day, a free crate storm will appear globally-- the time is forecasted next to the machine.
-+ NEW REBIRTH: Hacksaw, slice your ore into two equal parts
-+ NEW REBIRTH: Periastron's Choice, a rare furnace that will process ore at 65x, ONLY if the previous ore is identical to the first.
-+ NEW REBIRTH: Necrotite Dropper, a powerful mine, but droppers are DESTROYED after some time.
-+ Placement limits, limiting how many of CERTAIN items you can place (example: Campfires)-- this is to prevent bad actors from spamming particles which may be intensive on other devices.
-+ Purchasing gamepasses/devproducts/crystals are now broadcasted to the server.
-- You can no longer select items while in Build Mode. This was just a major painpoint and confusion.
-- Rebirth pricing is now far steeper for higher life players. This is to keep the game challenging, and to encourage experimenting (see attached picture for rebirth curve change).
+- Replaced floors 0 and 1 with the Tole world.
++ Removed these enemies: Boar, Wolf, Dire Wolf (Miniboss), Bluesteel Mite, Bluesteel Golem, Adelaid, the King (Boss)
++ Crafting has been removed from the game.
 
 Fixes:
-+ The server now announces when a Diamond crate has spawned.
-+ Players with no tags next to their names now have their username colored as their team color
-+ Unbox reward now appear in announcements after you've unboxed them (doesn't spoil what you're unboxing).
-+ Fixed leaderboards occasionally not loading on the client.
-+ Fixed a bug where 7 player servers would crash because boxes spawned every frame.
-+ Submitted items now show the username of the person that created them.
-+ Officially fixed 2 people appearing on the same team. Shoulda never happened.
-+ Centering conveyors center ores.
-+ Changed 'an' to 'a' in announcements.
-+ Confirm/remove buttons have been added to the plot selector/material selector submenus.
-+ Plot Radio is now working, my fault
-+ Fixed some floating point issues in the tooltip
-+ Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again.
-+ Infuser stats are now displayed in their description
-+ Fixed a small frame drop that occurred when changing your plot's color with the Team Colorizer gamepass
++ Armor has been fixed.
++ Fixed the hacking.
 
 Balances Changes:
-+ Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire
-+ Firecrystal ore is now worth 420k
-+ Twitchium ore is now worth 7.77M
-+ Crystalline ore is now worth 199.99M
-
-- Toxic Wasteland multiplier per effect decreased from 12x -> 7x
-- Toxic Wasteland multiplier now has a cap of 35x
-- Kunzite ore value decreased from 50M per ore -> 4.5M per ore
-- Kunzite time between drops increased from 1.6s -> 2.2s
-
-QOL Changes:
-+ You can now click on the build bar to exit a menu
-+ Boxes menu now has an exit button
-+ Boxes now have pity, depending on the type of box
-+ Removed spamming invalid upgrade sounds-- this'll hopefully help with coming back to a laggy base
-+ Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership)
-+ Recents tab for your most recent placed items
-+ Ore wash now has a list of effects it cleans
-
-+ On PC, 'Q' is now a global deselect-- used for exiting build mode, deselecting
-+ On PC, 'MiddleMouseButton' is now a way to instantly start placing something you're hovering over
++ Linked sword damge 5 -> 50
+- Windforce sword damage 10 - 2
++ Bone dagger speed 2 -> 572
++ Bone dagger damage 7 -> 200
