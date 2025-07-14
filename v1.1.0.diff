@@ -30,6 +30,7 @@ Fixes:
 + Fixed some floating point issues in the tooltip
 + Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again.
 + Infuser stats are now displayed in their description
++ Fixed a small frame drop that occurred when changing your plot's color with the Team Colorizer gamepass
 
 Balances Changes:
 + Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire
