@@ -1,0 +1,29 @@
+TUTORIAL STEPS:
+
+-- handling for existing players
+if player.cash == DEFAULT_CASH and life == 1 then
+  -- remove items as if the player is rebirthing
+
+1. Place 2 droppers
+  - Pre-defined positions (literally cannot place anywhere else)
+2. Save up for $5000
+3.
+  a. Select the conveyor at the end
+    - Big arrow point down
+  b. Remove the conveyor
+  c. Place an Ore Modernizer
+4. Save up for $6000
+5. 
+  a. Remove your current furnace
+  b. Place a Proficient Furnace in its spot (literally cannot place anywhere else)
+6. Save up for 10K
+7. Upgrade your plot size
+8. Save up for another 10k
+9. Upgrade your ore limit
+10. 
+  a. Place a new mine
+  b. Place a new upgrader
+  c. Place a new furnace
+11. CHALLENGE: Earn 10Qd and Rebirth
+  - Reward: Brand new item (silhouette of an item)
+
