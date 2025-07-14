@@ -20,7 +20,7 @@ Fixes:
 + Players with no tags next to their names now have their username colored as their team color
 + Unbox reward now appear in announcements after you've unboxed them (doesn't spoil what you're unboxing).
 + Fixed leaderboards occasionally not loading on the client.
-+ Fixed a bug where 7 player servers would crash becuase boxes spawned every frame.
++ Fixed a bug where 7 player servers would crash because boxes spawned every frame.
 + Submitted items now show the username of the person that created them.
 + Officially fixed 2 people appearing on the same team. Shoulda never happened.
 + Centering conveyors center ores.
