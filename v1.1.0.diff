@@ -29,6 +29,7 @@ Fixes:
 + Plot Radio is now working, my fault
 + Fixed some floating point issues in the tooltip
 + Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again.
++ Infuser stats are now displayed in their description
 
 Balances Changes:
 + Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire
