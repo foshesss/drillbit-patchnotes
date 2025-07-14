@@ -27,6 +27,7 @@ Fixes:
 + Changed 'an' to 'a' in announcements.
 + Confirm/remove buttons have been added to the plot selector/material selector submenus.
 + Plot Radio is now working, my fault
++ Fixed some floating point issues in the tooltip
 
 Balances Changes:
 + Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire
