@@ -9,7 +9,7 @@ Changes:
 + Crate storms, and global crates storms! Spawnable by machine in the middle of the map, will make a ton of crates spawn for 20 seconds. In addition, every day, a free crate storm will appear globally-- the time is forecasted next to the machine.
 + NEW REBIRTH: Hacksaw, slice your ore into two equal parts
 + NEW REBIRTH: Periastron's Choice, a rare furnace that will process ore at 65x, ONLY if the previous ore is identical to the first.
-+ NEW REBIRTH: Necrotite Dropper, a powerful mine, but droppers are DESTROYED after some time.
++ NEW REBIRTH: Necrotite Dropper, a powerful mine, but droppers are DESTROYED after some time. [X]
 + Placement limits, limiting how many of CERTAIN items you can place (example: Campfires)-- this is to prevent bad actors from spamming particles which may be intensive on other devices.
 + Purchasing gamepasses/devproducts/crystals are now broadcasted to the server. [X]
 + New clickable buttons on the right side of all screens indicating keybinds for each action that can be done while building, moving, or selecting items.
@@ -37,24 +37,28 @@ Fixes:
 + Fixed a small frame drop that occurred when changing your plot's color with the Team Colorizer gamepass [X]
 
 Balances Changes:
-+ Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire
-+ Firecrystal ore is now worth 420k
-+ Twitchium ore is now worth 7.77M
-+ Crystalline ore is now worth 199.99M
++ Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire) [X]
++ Firecrystal ore is now worth 420k [X]
++ Twitchium ore is now worth 7.77M [X]
++ Crystalline ore is now worth 199.99M [X]
++ 'Golden' is now a recognized effect [X]
++ Blinged Upgrader applies the Golden effect to all ore that pass through it [X]
++ Blinged Dropper drops ore that have Golden effect on them [X]
++ Gold dropper and Blinged dropper both have the same ore color [X]
 
-- Toxic Wasteland multiplier per effect decreased from 12x -> 7x
-- Toxic Wasteland multiplier now has a cap of 35x
-- Kunzite ore value decreased from 50M per ore -> 4.5M per ore
-- Kunzite time between drops increased from 1.6s -> 2.2s
+- Toxic Wasteland multiplier per effect decreased from 12x -> 7x [X]
+- Toxic Wasteland multiplier now has a cap of 35x [X]
+- Kunzite ore value decreased from 50M per ore -> 4.5M per ore [X]
+- Kunzite time between drops increased from 1.6s -> 2.2s [X]
 
 QOL Changes:
 + You can now click on the build bar to exit a menu [X]
-+ Boxes menu now has an exit button
++ Boxes menu now has an exit button [X]
 + Boxes now have pity, depending on the type of box
 + Removed spamming invalid upgrade sounds-- this'll hopefully help with coming back to a laggy base [X]
-+ Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership) [X}
++ Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership) [X]
 + Recents tab for your most recent placed items
 + Ore wash now has a list of effects it cleans
 
-+ On PC, 'Q' is now a global deselect-- used for exiting build mode, deselecting
++ On PC, 'Q' is now a global deselect-- used for exiting build mode, deselecting [X]
 + On PC, 'MiddleMouseButton' is now a way to instantly start placing something you're hovering over
