@@ -14,6 +14,7 @@ Changes:
 + Purchasing gamepasses/devproducts/crystals are now broadcasted to the server.
 - You can no longer select items while in Build Mode. This was just a major painpoint and confusion.
 - Rebirth pricing is now far steeper for higher life players. This is to keep the game challenging, and to encourage experimenting (see attached picture for rebirth curve change).
++ New clickable buttons on the right side of all screens indicating keybinds for each action that can be done while building, moving, or selecting items.
 
 Fixes:
 + The server now announces when a Diamond crate has spawned.
