@@ -22,14 +22,14 @@ Fixes:
 + Unbox reward now appear in announcements after you've unboxed them (doesn't spoil what you're unboxing). [X]
 + Fixed leaderboards occasionally not loading on the client. [X]
 + Fixed a bug where 7 player servers would crash because boxes spawned every frame. [X]
-+ Submitted items now show the username of the person that created them.
++ Submitted items now show the username of the person that created them. [X]
 + Officially fixed 2 people appearing on the same team. Shoulda never happened.
 + Centering conveyors center ores. [X]
 + Changed 'an' to 'a' in announcements. [X]
 + Confirm/remove buttons have been added to the plot selector/material selector submenus.
 + Plot Radio is now working, my fault
-+ Fixed some floating point issues in the tooltip
-+ Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again.
++ Fixed some floating point number issues in the tooltip [X]
++ Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again. [X]
 + Infuser stats are now displayed in their description
 + Mouse mode menu now closes by default after selecting a new mouse mode, and the icon reflects your current mouse mode
 + Fixed a bug where all inventory buttons didn't appear on smaller screens [X]
