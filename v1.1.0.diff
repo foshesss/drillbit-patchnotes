@@ -48,11 +48,11 @@ Balances Changes:
 - Kunzite time between drops increased from 1.6s -> 2.2s
 
 QOL Changes:
-+ You can now click on the build bar to exit a menu
++ You can now click on the build bar to exit a menu [X]
 + Boxes menu now has an exit button
 + Boxes now have pity, depending on the type of box
-+ Removed spamming invalid upgrade sounds-- this'll hopefully help with coming back to a laggy base
-+ Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership)
++ Removed spamming invalid upgrade sounds-- this'll hopefully help with coming back to a laggy base [X]
++ Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership) [X}
 + Recents tab for your most recent placed items
 + Ore wash now has a list of effects it cleans
 
