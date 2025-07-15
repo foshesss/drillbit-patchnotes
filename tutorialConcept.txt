@@ -26,4 +26,4 @@ if player.cash == DEFAULT_CASH and life == 1 then
   c. Place a new furnace
 11. CHALLENGE: Earn 10Qd and Rebirth
   - Reward: Brand new item (silhouette of an item)
-
+S
