@@ -30,6 +30,9 @@ Fixes:
 + Fixed some floating point issues in the tooltip
 + Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again.
 + Infuser stats are now displayed in their description
++ Mouse mode menu now closes by default after selecting a new mouse mode, and the icon reflects your current mouse mode
++ Fixed a bug where all inventory buttons didn't appear on smaller screens
++ Fixed a small frame drop that occured when spam opening inventory tabs
 + Fixed a small frame drop that occurred when changing your plot's color with the Team Colorizer gamepass
 
 Balances Changes:
