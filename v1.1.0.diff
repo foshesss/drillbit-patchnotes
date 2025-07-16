@@ -38,6 +38,7 @@ Fixes:
 + Fixed a small frame drop that occured when spam opening inventory tabs [X]
 + Fixed a small frame drop that occurred when changing your plot's color with the Team Colorizer gamepass [X]
 + Devproducts for Friend/Rivals bundle are now labeled correctly in the buy prompt [X]
++ Fixed a Sound error that would spam on join-- sounds are now only sent to players that have loaded in [X]
 
 Balances Changes:
 + Firecrystal ore now does not get destroyed by fire, but is immune to it (it will never be destroyed because of fire) [X]
