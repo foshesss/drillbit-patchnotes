@@ -46,6 +46,7 @@ Balances Changes:
 + Blinged Upgrader applies the Golden effect to all ore that pass through it [X]
 + Blinged Dropper drops ore that have Golden effect on them [X]
 + Gold dropper and Blinged dropper both have the same ore color [X]
++ Speed Infuser walkspeed increased from +6 to +10 [X]
 
 - Toxic Wasteland multiplier per effect decreased from 12x -> 7x [X]
 - Toxic Wasteland multiplier now has a cap of 35x [X]
