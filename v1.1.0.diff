@@ -47,6 +47,7 @@ Balances Changes:
 + Blinged Dropper drops ore that have Golden effect on them [X]
 + Gold dropper and Blinged dropper both have the same ore color [X]
 + Speed Infuser walkspeed increased from +6 to +10 [X]
++ Random Infuser walkspeed/jumpheight upgrade range increased from [5,15] -> [10,20]. [X]
 
 - Toxic Wasteland multiplier per effect decreased from 12x -> 7x [X]
 - Toxic Wasteland multiplier now has a cap of 35x [X]
