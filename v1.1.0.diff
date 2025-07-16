@@ -6,7 +6,7 @@ Changes:
 + Revamped Build Mode UI, now with more responsive animations, a better search, useful keybind actions, and more helpful categories.
 + Mobile and Console are now supported.
 + Creator tags in chat for recognized creators [X]
-+ Crate storms, and global crates storms! Spawnable by machine in the middle of the map, will make a ton of crates spawn for 20 seconds. In addition, every day, a free crate storm will appear globally-- the time is forecasted next to the machine.
++ Crate storms, and global crates storms! Spawnable by machine in the middle of the map, will make a ton of crates spawn for 20 seconds. In addition, every day, a free crate storm will appear globally-- the time is forecasted next to the machine. [X]
 + NEW REBIRTH: Hacksaw, slice your ore into two equal parts
 + NEW REBIRTH: Periastron's Choice, a rare furnace that will process ore at 65x, ONLY if the previous ore is identical to the first.
 + NEW REBIRTH: Necrotite Dropper, a powerful mine, but droppers are DESTROYED after some time. [X]
