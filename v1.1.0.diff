@@ -14,6 +14,7 @@ Changes:
 + Purchasing gamepasses/devproducts/crystals are now broadcasted to the server. [X]
 + New clickable buttons on the right side of all screens indicating keybinds for each action that can be done while building, moving, or selecting items.
 + Rebirths and Unboxes now appear in their respective Text Channels (this is to hopefully clear up the chat) [X]
++ AFK is back, meaning you can AFK and you will automatically rejoin the game. [X]
 - You can no longer select items while in Build Mode. This was just a major painpoint and confusion. [X]
 - Rebirth pricing is now far steeper for higher life players. This is to keep the game challenging, and to encourage experimenting (see attached picture for rebirth curve change). [X]
 
