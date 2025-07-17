@@ -13,7 +13,7 @@ Changes:
 + NEW REBIRTH: Necrotite Dropper, a powerful mine, but droppers are DESTROYED after some time. [X]
 + Placement limits, limiting how many of CERTAIN items you can place (example: Campfires)-- this is to prevent bad actors from spamming particles which may be intensive on other devices. [X]
 + Purchasing gamepasses/devproducts/crystals are now broadcasted to the server. [X]
-+ New clickable buttons on the right side of all screens indicating keybinds for each action that can be done while building, moving, or selecting items.
++ New clickable buttons on the right side of all screens indicating keybinds for each action that can be done while building, moving, or selecting items. [X]
 + Rebirths and Unboxes now appear in their respective Text Channels (this is to hopefully clear up the chat) [X]
 + AFK is back, meaning you can AFK and you will automatically rejoin the game. [X]
 - You can no longer select items while in Build Mode. This was just a major painpoint and confusion. [X]
@@ -29,7 +29,7 @@ Fixes:
 + Officially fixed 2 people appearing on the same team. Shoulda never happened. [X]
 + Centering conveyors center ores. [X]
 + Changed 'an' to 'a' in announcements. [X]
-+ Confirm/remove buttons have been added to the plot selector/material selector submenus.
++ Confirm/remove buttons have been added to the plot selector/material selector submenus. [X]
 + Plot Radio is now working, my fault
 + Fixed some floating point number issues in the tooltip [X]
 + Adding a cooldown between invalid upgrade sounds, so the sound isn't spammed over and over again. [X]
@@ -64,8 +64,7 @@ QOL Changes:
 + Boxes now have pity, depending on the type of box
 + Removed spamming invalid upgrade sounds-- this'll hopefully help with coming back to a laggy base [X]
 + Fixed ore erroring when walking on/off your base (this has to do with switching ore network ownership) [X]
-+ Recents tab for your most recent placed items
 + Ore wash now has a list of effects it cleans
 
 + On PC, 'Q' is now a global deselect-- used for exiting build mode, deselecting [X]
-+ On PC, 'MiddleMouseButton' is now a way to instantly start placing something you're hovering over
++ On PC, 'MiddleMouseButton' is now a way to instantly start placing something you're hovering over [X]
