@@ -2,6 +2,7 @@ v1.1.1
 box fixes
 
 Fixes:
++ Required life for Periastron's Throne increased from life 1 -> 15 (this was a mistake)
 + Fixed an issue where destroyed boxes were being animated on clients (was causing errors)
 
 Known Issues:
