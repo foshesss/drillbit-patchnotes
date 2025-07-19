@@ -14,7 +14,7 @@ Bug fixes:
 + Removed whispering ingame-- it would create extra chat tabs, which is annoying to me
 + Box select is now available again on mobile and PC
 + The bottom bar buttons now have images of their respective items
-+ Ore Limit not updating when limit upgrade is purchased (visual)
++ Ore Limit not updating when limit upgrade is purchased (visual) [X]
 + Fixed animations for sawmill and the plasma upgrader break when a plot is expanded [X]
 + Fixed a lag spike on lower end devices when standing inside of a placed item [X]
 + Fixed a bug where controller DPadUp wouldn't work inside of the inventory [X]
