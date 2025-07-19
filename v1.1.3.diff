@@ -7,6 +7,7 @@ Changes:
 + Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
 
 Bug fixes:
++ Plot radio now ACTUALLY works. I am so sorry it took so long.
 + Duped necrotite ore now has the same lifetime as the ore it was duped by. (both will die at the same time)
 + Applied effects no longer overwrite death timers. Example: Passing an ore into 3
 + Removed whispering ingame-- it would create extra chat tabs, which is annoying to me
