@@ -1,24 +1,30 @@
 v1.1.2 (unreleased)
-daily gift stuff
+general bug fixes
 
+Bug fixes:
++ Duped necrotite ore now has the same lifetime as the ore it was duped by. (both will die at the same time)
++ Applied effects no longer overwrite death timers. Example: Passing an ore into 3
++ Bottom bar no longer prevents you from placing when moving
++ Ore Limit not updating when limit upgrade is purchased (visual)
++ Fixed animations for sawmill and the plasma upgrader break when a plot is expanded
++ Fixed a lag spike on lower end devices when standing inside of a placed item
++ Fixed a bug where controller DPadUp wouldn't work inside of the inventory
++ Fixed ore not despawning after getting stuck
++ Fixed UI occasionally not loading on client for a few seconds
+
+
+NEXT UPDATE:
 Changes:
 + Plot Actions has been moved back to the bottom bar, by request
 + Daily gift has been moved to the right side of the screen (sorry mobile)
 + Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
 + Global shouts! You can now pay 60c to send a message that will be broadcasted to all servers!
++ Lambda rework (uncapped, higher chance to destroy after more upgrades. TBD)
 
 Bug fixes:
 + Plot radio now ACTUALLY works. I am so sorry it took so long.
-+ Duped necrotite ore now has the same lifetime as the ore it was duped by. (both will die at the same time) [X]
-+ Applied effects no longer overwrite death timers. Example: Passing an ore into 3 [X]
 + Box select is now available again on mobile and PC
 + The bottom bar buttons now have images of their respective items
-+ Bottom bar no longer prevents you from placing when moving [X]
-+ Ore Limit not updating when limit upgrade is purchased (visual) [X]
-+ Fixed animations for sawmill and the plasma upgrader break when a plot is expanded [X]
-+ Fixed a lag spike on lower end devices when standing inside of a placed item [X]
-+ Fixed a bug where controller DPadUp wouldn't work inside of the inventory [X]
-+ Fixed ore not despawning after getting stuck [X]
 
 Balance Changes:
 + Daily gifts are now juiced
