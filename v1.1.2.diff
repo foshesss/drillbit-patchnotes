@@ -31,4 +31,4 @@ Known Issues:
 - Teleporting while sitting will teleport the seat
 - Cannot move items in the safe zone while inventory is closed
 - Big ore phase through teleporters/furnaces sometimes and are destroyed before being teleported/processed
-- Whispering creates a new text channel. Really bad. Really ugly.
+- Whispering creates a new text channel. Really bad. Really ugly. IDEA: Override whisper command (?!)
