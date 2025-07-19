@@ -16,7 +16,7 @@ Bug fixes:
 + The bottom bar buttons now have images of their respective items
 + Ore Limit not updating when limit upgrade is purchased (visual)
 + Fixed animations for sawmill and the plasma upgrader break when a plot is expanded
-+ Fixed a lag spike on lower end devices when standing inside of a placed item
++ Fixed a lag spike on lower end devices when standing inside of a placed item [X]
 + Fixed a bug where controller DPadUp wouldn't work inside of the inventory [X]
 
 Balance Changes:
