@@ -1,4 +1,4 @@
-v1.0.3 (unreleased)
+v1.1.3 (unreleased)
 daily gift stuff
 
 Changes:
@@ -10,6 +10,8 @@ Bug fixes:
 + Duped necrotite ore now has the same lifetime as the ore it was duped by. (both will die at the same time)
 + Applied effects no longer overwrite death timers. Example: Passing an ore into 3
 + Removed whispering ingame-- it would create extra chat tabs, which is annoying to me
++ Box select is now available again on mobile and PC
++ The bottom bar buttons now have images of their respective items
 
 Balance Changes:
 + Daily gifts are now juiced
