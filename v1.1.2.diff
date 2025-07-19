@@ -10,7 +10,7 @@ Changes:
 Bug fixes:
 + Plot radio now ACTUALLY works. I am so sorry it took so long.
 + Duped necrotite ore now has the same lifetime as the ore it was duped by. (both will die at the same time)
-+ Applied effects no longer overwrite death timers. Example: Passing an ore into 3
++ Applied effects no longer overwrite death timers. Example: Passing an ore into 3 [X]
 + Box select is now available again on mobile and PC
 + The bottom bar buttons now have images of their respective items
 + Bottom bar no longer prevents you from placing when moving [X]
