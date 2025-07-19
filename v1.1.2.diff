@@ -1,7 +1,8 @@
-v1.1.2 (unreleased)
+v1.1.2
 general bug fixes
 
 Changes:
++ Rebirth price calculator changed to be a little kinder to high life players
 - Automatic AFK teleport has been disabled due to players seeing fake empty save slots
 
 Bug fixes:
