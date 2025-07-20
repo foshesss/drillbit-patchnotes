@@ -2,8 +2,8 @@ v1.1.3
 bug fixes, small reworks
 
 Changes:
-+ New Centering Conveyor model, which will GUARANTEE center everything
-+ Upgraders will not automatically be bound to the axis that their conveyor moves in
++ New Centering Conveyor behavior, which will GUARANTEE center everything. New model for centering conveyor coming soon.
++ Upgraders will now automatically be bound to the axis that their conveyor moves in
 
 Balance Changes:
 + Lambda Upgrader has been reworked. Now, upgrades from it are uncapped, but the more an ore is upgraded, the higher the chance it will be destroyed.
@@ -11,7 +11,7 @@ Balance Changes:
 - Scret chances in both Regular and Unreal crates have been decreased
 
 Bug Fixes:
-+ Hacksaw model bug when expanding base is now completely fixed.
++ Hacksaw/scanner model bug when expanding base is now completely fixed.
 + Now, when an effect is applied, the lowest death timer will take precedence. This is the intended behavior.
 + Fixed big ore from being destroyed when falling from high heights into a furnace or teleporter
 + Bound axis for moving items is now fixed (specifically pertaining to conveyors)
