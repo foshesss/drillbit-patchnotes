@@ -4,6 +4,7 @@ bug fixes, small reworks
 Changes:
 + New Centering Conveyor model, which will GUARANTEE center everything
 + Lambda Upgrader has been reworked. Now, upgrades from it are uncapped, but the more an ore is upgraded, the higher the chance it will be destroyed.
++ Upgraders will not automatically be bound to the axis that their conveyor moves in
 
 Balance Changes:
 + Daily gifts are now juiced
@@ -13,6 +14,7 @@ Bug Fixes:
 + Hacksaw model bug when expanding base is now completely fixed.
 + Now, when an effect is applied, the lowest death timer will take precedence. This is the intended behavior.
 + Fixed big ore from being destroyed when falling from high heights into a furnace or teleporter
++ Bound axis for moving items is now fixed (specifically pertaining to conveyors)
 
 NEXT UPDATE:
 Changes:
