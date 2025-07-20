@@ -1,0 +1,5 @@
+v1.1.4
+
+Bug fixes:
++ Teleporting while sitting in a chair no longer teleports the seat with you
++ Gunium and Necrotite orientation are now that same as all other droppers when placing
