@@ -1,6 +1,7 @@
 v1.1.4
 
 Bug fixes:
++ Furnaces have received a small netcode update that should hopefully fix ore not being processed
 + Teleporting while sitting in a chair no longer teleports the seat with you
 + Gunium and Necrotite orientation are now that same as all other droppers when placing
 + Centering conveyor now works properly when your plot is expanded (was teleporting ore to the original centering location)
