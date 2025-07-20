@@ -15,6 +15,7 @@ Bug Fixes:
 + Now, when an effect is applied, the lowest death timer will take precedence. This is the intended behavior.
 + Fixed big ore from being destroyed when falling from high heights into a furnace or teleporter
 + Bound axis for moving items is now fixed (specifically pertaining to conveyors)
++ Ore color changed by the effects 'Gold' and 'Nuclear' are now respected by the Prismatic upgrader. (You can now use Necrotite with Prismatic, and so on)
 
 NEXT UPDATE:
 Changes:
