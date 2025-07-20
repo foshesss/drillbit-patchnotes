@@ -8,7 +8,7 @@ Changes:
 Balance Changes:
 + Lambda Upgrader has been reworked. Now, upgrades from it are uncapped, but the more an ore is upgraded, the higher the chance it will be destroyed.
 + Castle Fortress max upgrade limit has been increased form 25Qn -> 100Qn
-- Scret chances in both Regular and Unreal crates have been decreased
+- Secret chances in both Regular and Unreal crates have been decreased
 
 Bug Fixes:
 + Hacksaw/scanner model bug when expanding base is now completely fixed.
