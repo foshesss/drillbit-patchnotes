@@ -29,9 +29,3 @@ Changes:
 
 Bug fixes:
 + Plot radio now ACTUALLY works. I am so sorry it took so long.
-
-Known Issues:
-- Rejoining the game after being idle makes it seem like your data reset
-- UI not loading because Crates model is being destroyed on the server (?!, still investigating)
-- Teleporting while sitting will teleport the seat
-- Whispering creates a new text channel. Really bad. Really ugly. IDEA: Override whisper command (?!)
