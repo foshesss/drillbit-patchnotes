@@ -1,6 +1,9 @@
 v1.1.4
 bogus day of bug fixing, small refactoring
 
+Changes:
++ Daily gift has been moved to the right side of your screen (sorry mobile!)
+
 QOL Changes:
 + Placing in mobile now starts the placement in the center of your screen, as opposed to the last used position.
 
