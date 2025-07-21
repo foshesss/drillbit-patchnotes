@@ -11,7 +11,7 @@ Balance Changes:
 + You can no longer get stuck in trees.
 
 Bug Fixes:
-+ Centering conveyors center ore after they've been on the conveyor for .1 seconds (previously .3 seconds)
++ Centering conveyors center ore immediately when an ore touches the conveyor
 + Plot radio now ACTUALLY works. I am so sorry it took so long.
 + Fixed a memory leak having to do with Upgraders and Furances
 + Reduced memory footprint of buildings that you do not own
