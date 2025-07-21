@@ -3,6 +3,7 @@ finally some new stuff
 
 Balance Changes:
 + Modified the Lambda destroy changed graph to look something like .9/x, where 'x' is the number of upgrades, and the output is the % chance the ore will be destroyed.
++ You can no longer get stuck in trees.
 
 PLANNED:
 Changes:
