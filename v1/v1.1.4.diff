@@ -1,6 +1,11 @@
 v1.1.4
+bogus day of bug fixing, small refactoring
+
+QOL Changes:
++ Placing in mobile now starts the placement in the center of your screen, as opposed to the last used position.
 
 Bug fixes:
++ Changed some naming conventions in order to mitigate a floating point error on PS4.
 + Furnaces have received a small netcode update that should hopefully fix ore not being processed
 + Teleporting while sitting in a chair no longer teleports the seat with you
 + Gunium and Necrotite orientation are now that same as all other droppers when placing
