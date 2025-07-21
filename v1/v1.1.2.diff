@@ -15,30 +15,3 @@ Bug fixes:
 + Fixed a bug where controller DPadUp wouldn't work inside of the inventory
 + Fixed ore not despawning after getting stuck
 + Fixed UI occasionally not loading on client for a few seconds
-
-
-NEXT UPDATE:
-Changes:
-+ Plot Actions has been moved back to the bottom bar, by request
-+ Daily gift has been moved to the right side of the screen (sorry mobile)
-+ Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
-+ Global shouts! You can now pay 60c to send a message that will be broadcasted to all servers!
-+ Lambda rework (uncapped, higher chance to destroy after more upgrades. TBD)
-
-Bug fixes:
-+ Plot radio now ACTUALLY works. I am so sorry it took so long.
-+ Box select is now available again on mobile and PC
-+ The bottom bar buttons now have images of their respective items
-
-Balance Changes:
-+ Daily gifts are now juiced
-- Exotic and secret chances in both Regular and Unreal crates have been nerfed heavily
-
-Known Issues:
-- Rejoining the game after being idle makes it seem like your data reset
-- Centering Conveyor is awful
-- UI not loading because Crates model is being destroyed on the server (?!, still investigating)
-- Teleporting while sitting will teleport the seat
-- Cannot move items in the safe zone while inventory is closed
-- Big ore phase through teleporters/furnaces sometimes and are destroyed before being teleported/processed
-- Whispering creates a new text channel. Really bad. Really ugly. IDEA: Override whisper command (?!)
