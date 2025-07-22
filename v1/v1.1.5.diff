@@ -2,7 +2,6 @@ v1.1.5
 finally some new stuff
 
 Changes:
-+ Box select is now available again on mobile and PC
 + New Centering Conveyor model
 + NEW SETTING: Others Building Animations, allows you to enable/disable other player's buildings animations (off by default).
 
@@ -19,6 +18,7 @@ Bug Fixes:
 
 PLANNED:
 Changes:
++ Box select is now available again on mobile and PC
 + The bottom bar buttons now have images of their respective items
 + Plot Actions has been moved back to the bottom bar, by request
 + Daily gift has been moved to the right side of the screen (sorry mobile)
