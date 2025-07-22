@@ -1,0 +1,28 @@
+v1.1.6
+crate stuff
+
+Changes:
++ Box select is now available again on mobile and PC
++ The bottom bar buttons now have images of their respective items
++ Plot Actions has been moved back to the bottom bar, by request
+
+Balance Changes:
++ Lamp placement limit has been buffed from 16 -> 20
+
+Crate Changes:
++ Crate despawn time has been changed from 45s -> 90s
++ Crates are now client-sided
++ Crates now have a timer above them, indicating when they will despawn
+
+PLANNED:
+Changes:
++ Daily gift has been moved to the right side of the screen (sorry mobile)
++ Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
++ Global shouts! You can now pay 60c to send a message that will be broadcasted to all servers!
++ Daily gifts are now juiced
++ Expand and collapse inventory is now back on PC
+
+Known Issues:
+- Rejoining the game after being idle makes it seem like your data reset
+- UI not loading because Crates model is being destroyed on the server (?!, still investigating)
+- Whispering creates a new text channel. Really bad. Really ugly. IDEA: Override whisper command (?!)
