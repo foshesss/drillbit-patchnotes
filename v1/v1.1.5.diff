@@ -3,7 +3,7 @@ finally some new stuff
 
 Changes:
 + Box select is now available again on mobile and PC
-+ Expand and collapse inventory is now back on PC
++ New Centering Conveyor model
 + NEW SETTING: Others Building Animations, allows you to enable/disable other player's buildings animations (off by default).
 
 Balance Changes:
@@ -13,6 +13,7 @@ Balance Changes:
 Bug Fixes:
 + Centering conveyors center ore immediately when an ore touches the conveyor
 + Plot radio now ACTUALLY works. I am so sorry it took so long.
++ Acid Plant now needs to be washed before second use (intended behavior).
 + Fixed a memory leak having to do with Upgraders and Furances
 + Reduced memory footprint of buildings that you do not own
 
@@ -24,6 +25,7 @@ Changes:
 + Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
 + Global shouts! You can now pay 60c to send a message that will be broadcasted to all servers!
 + Daily gifts are now juiced
++ Expand and collapse inventory is now back on PC
 
 Known Issues:
 - Rejoining the game after being idle makes it seem like your data reset
