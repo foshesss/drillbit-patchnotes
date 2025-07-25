@@ -5,6 +5,7 @@ Changes:
 + Box Select is back in the game-- this took so long due to cross compatability support.
 + Tutorial for new players
 + Boxes are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices.
++ Lamba's destroy rate is now officially (1 - .9/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader.
 
 + NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color
 + NEW SHOP ITEM: Pinpoint Upgrader, an item that costs 30sx
