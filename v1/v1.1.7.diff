@@ -33,6 +33,7 @@ Bug Fixes:
 + Along with client-sided crates, the UI all being missing bug is now gone.
 + Teleporters now behave EXACTLY as intended-- no more ghost/delayed teleporting.
 + Upgraders no longer have ghost/delayed upgrades.
++ You can no longer buy multiple second daily gifts. Why did you guys even figure this out
 
 PLANNED:
 Changes:
