@@ -7,6 +7,7 @@ Changes:
 + Tutorial for new players, including logging to identify player dropoff
 + Boxes are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices.
 + Lamba's destroy rate is now officially (1 - .9/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader.
++ Ore Limit upgrade is officially gone. It took a lot of thinking for me, but mobile players NEED to be able to adjust their ore limit. It felt like a useless upgrade to me.
 
 + NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color ( by THEskelactorXx )
 + NEW SHOP ITEM: Pinpoint Upgrader, an item that costs 30sx ( by SOGGYPOO66 )
@@ -23,6 +24,7 @@ UI Changes:
 
 Balance Changes:
 + Lamp placement limit has been buffed from 16 -> 20
+- Maximum Ore Limit decreased from 125 -> 100
 
 Crate Changes:
 + Crate despawn time has been changed from 45s -> 90s
