@@ -17,6 +17,10 @@ Changes:
 + NEW REBIRTH: Enchanted Glade, a ground upgrader available at Life 15 ( by SorryWereCIosed )
 + NEW REBIRTH: Ore Sapper, a ground upgrader available to players at Life 10 ( by AwfulUnlawful )
 
+Accessibility Changes:
++ Dropper tooltip's now show their ore's color.
++ NEW SETTING: Colorblind Mode, which shows an ore's color above the ore.
+
 UI Changes:
 + Plot Actions has been moved from the right side of your screen to the bottom
 + Complete redesign of the bottom bar, so it is less wordy
