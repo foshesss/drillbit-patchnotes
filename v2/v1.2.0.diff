@@ -34,6 +34,7 @@ Crate Changes:
 + Crate despawn time has been changed from 45s -> 90s
 + Crates are now client-sided
 + Crates now have a timer above them, indicating when they will despawn
++ Default crate spawn time is now a static 12s per crate. With a skill tree upgrade, this will be 6 seconds per crate.
 
 Bug Fixes:
 + Along with client-sided crates, the UI all being missing bug is now gone.
