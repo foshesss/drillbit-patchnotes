@@ -16,6 +16,7 @@ Changes:
 + NEW REBIRTH: Crimsonsteel Archway, a way-up high upgrader available to players at Life 20 ( by valphex )
 + NEW REBIRTH: Enchanted Glade, a ground upgrader available at Life 15 ( by SorryWereCIosed )
 + NEW REBIRTH: Ore Sapper, a ground upgrader available to players at Life 10 ( by AwfulUnlawful )
++ NEW REBIRTH: Golden Blessing, a ground upgrader available to players at Life 50 ( by Tnt0gamer2 )
 
 Accessibility Changes:
 + Dropper tooltip's now show their ore's color.
@@ -27,6 +28,7 @@ UI Changes:
 + Redesigned notifications
 
 Balance Changes:
++ X-Ray Refiner multiplier increased from 1.2x -> 1.4x
 + Lamp placement limit has been buffed from 16 -> 20
 - Maximum Ore Limit decreased from 125 -> 100
 
