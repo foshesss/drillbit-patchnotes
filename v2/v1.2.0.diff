@@ -3,45 +3,44 @@ aint not question if i want it, i need it
 
 Changes:
 + Box Select is back in the game-- this took so long due to cross compatability support.
-+ Plot Actions has been moved back to the bottom bar, by request
++ Plot Actions has been moved back to the bottom bar, by request [X]
 + Tutorial for new players, including logging to identify player dropoff
-+ Boxes are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices.
-+ Lamba's destroy rate is now officially (1 - .9/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader.
 + Ore Limit upgrade is officially gone. It took a lot of thinking for me, but mobile players NEED to be able to adjust their ore limit. It alos feels like a useless upgrade to me.
 
-+ NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color ( by THEskelactorXx )
-+ NEW SHOP ITEM: Pinpoint Upgrader, an item that costs 30sx ( by SOGGYPOO66 )
-+ NEW SHOP ITEM: Ore Slump, a new way to catch your ore on fire! ( by crusanfrye )
-+ NEW REBIRTH: Ethereal Island, a way-up high upgrader available at Life 35 ( by McFanOfMcdonalds )
-+ NEW REBIRTH: Crimsonsteel Archway, a way-up high upgrader available to players at Life 20 ( by valphex )
-+ NEW REBIRTH: Enchanted Glade, a ground upgrader available at Life 15 ( by SorryWereCIosed )
-+ NEW REBIRTH: Ore Sapper, a ground upgrader available to players at Life 10 ( by AwfulUnlawful )
-+ NEW REBIRTH: Golden Blessing, a ground upgrader available to players at Life 50 ( by Tnt0gamer2 )
++ NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color ( by THEskelactorXx ) [X]
++ NEW SHOP ITEM: Pinpoint Upgrader, an item that costs 30sx ( by SOGGYPOO66 ) [X]
++ NEW SHOP ITEM: Ore Slump, a new way to catch your ore on fire! ( by crusanfrye ) [X]
++ NEW REBIRTH: Ethereal Island, a way-up high upgrader available at Life 35 ( by McFanOfMcdonalds ) [X]
++ NEW REBIRTH: Crimsonsteel Archway, a way-up high upgrader available to players at Life 20 ( by valphex ) [X]
++ NEW REBIRTH: Enchanted Glade, a ground upgrader available at Life 15 ( by SorryWereCIosed ) [X]
++ NEW REBIRTH: Ore Sapper, a ground upgrader available to players at Life 10 ( by AwfulUnlawful ) [X]
++ NEW REBIRTH: Golden Blessing, a ground upgrader available to players at Life 50 ( by Tnt0gamer2 ) [X]
 
 Accessibility Changes:
-+ Dropper tooltip's now show their ore's color.
-+ NEW SETTING: Colorblind Mode, which shows an ore's color above the ore.
++ Dropper tooltip's now show their ore's color. [X]
++ NEW SETTING: Colorblind Mode, which shows an ore's color above the ore. [X]
 
 UI Changes:
-+ Plot Actions has been moved from the right side of your screen to the bottom
-+ Complete redesign of the bottom bar, so it is less wordy
-+ Redesigned notifications
++ Plot Actions has been moved from the right side of your screen to the bottom [X]
++ Complete redesign of the bottom bar, so it is less wordy [X]
++ Redesigned notifications [X]
 
 Balance Changes:
-+ X-Ray Refiner multiplier increased from 1.2x -> 1.4x
-+ Lamp placement limit has been buffed from 16 -> 20
-- Maximum Ore Limit decreased from 125 -> 100
++ Lamba's destroy rate is now officially (1 - 1.5/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader. [X]
++ X-Ray Refiner multiplier increased from 1.2x -> 1.4x [X]
++ Lamp placement limit has been buffed from 16 -> 20 [X]
+- Maximum Ore Limit decreased from 125 -> 100 [X]
 
 Crate Changes:
-+ Crate despawn time has been changed from 45s -> 90s
-+ Crates are now client-sided
-+ Crates now have a timer above them, indicating when they will despawn
-+ Default crate spawn time is now a static 12s per crate. With a skill tree upgrade, this will be 6 seconds per crate.
++ Crates are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices. [X]
++ Crate despawn time has been changed from 45s -> 90s [X]
++ Crates now have a timer above them, indicating when they will despawn [X]
++ Default crate spawn time is now a static 12s per crate. With a skill tree upgrade, this will be 6 seconds per crate. [X]
 
 Bug Fixes:
-+ Along with client-sided crates, the UI all being missing bug is now gone.
-+ Teleporters now behave EXACTLY as intended-- no more ghost/delayed teleporting.
-+ Upgraders no longer have ghost/delayed upgrades
++ Along with client-sided crates, the UI all being missing bug is now gone. [X]
++ Teleporters now behave EXACTLY as intended-- no more ghost/delayed teleporting. [X]
++ Upgraders no longer have ghost/delayed upgrades [X]
 
 PLANNED:
 Changes:
