@@ -35,7 +35,8 @@ Balance Changes:
 - Maximum Ore Limit decreased from 125 -> 100 [X]
 
 XP and Levels Work:
-+ The XP formula looks something like
++ The XP formula for players that are Level 10 and under: 100+80x^2, where x is your level
++ The XP formula for players that are over Level 10: 100+80x^2 + 1000*(x-10)^2
 + Basic Crates now give 40-80 XP
 + Gold Crates now give 120-300 XP
 + Diamond Crates now give 600-1000 XP
