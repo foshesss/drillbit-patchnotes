@@ -38,10 +38,10 @@ XP and Levels Work:
 + The XP formula for players that are Level 10 and under: 100+80x^2, where x is your level
 + The XP formula for players that are over Level 10: 100+80x^2 + 1000*(x-10)^2
 + Basic Crates now give 40-80 XP
-+ Gold Crates now give 120-300 XP
-+ Diamond Crates now give 600-1000 XP
++ Gold Crates now give 400-800 XP
++ Diamond Crates now give 2500-4500 XP
 + Crystal Crates now give 40-80 XP
-+ Big Crystal Crates now give 120-300 XP
++ Big Crystal Crates now give 400-800 XP
 
 Crate Changes:
 + Crates are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices. [X]
