@@ -26,6 +26,7 @@ UI Changes:
 + Plot Actions has been moved from the right side of your screen to the bottom [X]
 + Complete redesign of the bottom bar, so it is less wordy [X]
 + Redesigned notifications [X]
++ Added that the Lambda Upgrader gives sparkles in it's item description. [X]
 
 Balance Changes:
 + Lamba's destroy rate is now officially (1 - 1.5/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader. [X]
@@ -33,11 +34,24 @@ Balance Changes:
 + Lamp placement limit has been buffed from 16 -> 20 [X]
 - Maximum Ore Limit decreased from 125 -> 100 [X]
 
+XP and Levels Work:
++ The XP formula looks something like
++ Basic Crates now give 40-80 XP
++ Gold Crates now give 120-300 XP
++ Diamond Crates now give 600-1000 XP
++ Crystal Crates now give 40-80 XP
++ Big Crystal Crates now give 120-300 XP
+
 Crate Changes:
 + Crates are now completely client-sided, and now coming slamming down instead of having physics. This will hopefully be helpful with performance for the server and lower-end devices. [X]
 + Crate despawn time has been changed from 45s -> 90s [X]
 + Crates now have a timer above them, indicating when they will despawn [X]
 + Default crate spawn time is now a static 12s per crate. With a skill tree upgrade, this will be 6 seconds per crate. [X]
+- Basic, Gold, and Diamond crates no longer give crystals
+- Gold Crates now have a 40% chance to give a box, reduced from 100%.
+- Big Crystal Crates now give 20-30 crystals, down from 50-100
+- Crystal crates now give 5-10 crystals, down from 10-20
+
 
 Bug Fixes:
 + Along with client-sided crates, the UI all being missing bug is now gone. [X]
