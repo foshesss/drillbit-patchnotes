@@ -48,10 +48,11 @@ Crate Changes:
 + Crate despawn time has been changed from 45s -> 90s [X]
 + Crates now have a timer above them, indicating when they will despawn [X]
 + Default crate spawn time is now a static 12s per crate. With a skill tree upgrade, this will be 6 seconds per crate. [X]
-- Basic, Gold, and Diamond crates no longer give crystals
++ Diamond Crates now give 6-12 crystals, up from 5-10.
+- Basic and Gold crates no longer give crystals
 - Gold Crates now have a 40% chance to give a box, reduced from 100%.
 - Big Crystal Crates now give 20-30 crystals, down from 50-100
-- Crystal crates now give 5-10 crystals, down from 10-20
+- Crystal crates now give 8-16 crystals, down from 10-20
 
 
 Bug Fixes:
