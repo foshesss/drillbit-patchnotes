@@ -32,6 +32,13 @@ Balance Changes:
 + Lamba's destroy rate is now officially (1 - 1.5/x), where 'x' is the amount of times an ore has been upgraded by the Lambda Upgrader. [X]
 + X-Ray Refiner multiplier increased from 1.2x -> 1.4x [X]
 + Lamp placement limit has been buffed from 16 -> 20 [X]
+
++ Random Infuser price decreased from 500c -> 200c
++ Ore Flamethrower price decreased from 675c -> 200c
++ Blinged Upgrader price decreased from 150c -> 75c
++ Ore Greasifier price deceased from 350c -> 100c
++ Super Infuser price decreased from 250c -> 100c
+
 - Maximum Ore Limit decreased from 125 -> 100 [X]
 
 XP and Levels Work:
@@ -59,6 +66,15 @@ Bug Fixes:
 + Along with client-sided crates, the UI all being missing bug is now gone. [X]
 + Teleporters now behave EXACTLY as intended-- no more ghost/delayed teleporting. [X]
 + Upgraders no longer have ghost/delayed upgrades [X]
+
+Crystal Changes (thoughts):
+Right now, the Crystal economy is extremely saturated, so I made the decision to remove crystals from most crates. Your main source of crystals should be leveling up,
+and the occasional crystal crate. As a result, prices for most Premium tier items have decreased drastically. Crates will still be a great source for crates, but
+they will not yield the same crystal rewards.
+
+Crystals, in this update, now have a lot more uses though, encouraging you to spend wisely. Rebirth Rerolls, (optionally) Skill Tree Upgrades, and the existing purchasing Boxes.
+Hopefully, this will make crystals worth more, and they won't just be seen as something to stockpile/pointless. I'll continue iterating on this over time with feedback, but I
+hope that you enjoy these changes.
 
 PLANNED:
 Changes:
