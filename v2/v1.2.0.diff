@@ -7,7 +7,6 @@ Changes:
 + Tutorial for new players, including logging to identify player dropoff
 + Ore Limit upgrade is officially gone. It took a lot of thinking for me, but mobile players NEED to be able to adjust their ore limit. It alos feels like a useless upgrade to me.
 
-+ NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color ( by THEskelactorXx ) [X]
 + NEW SHOP ITEM: Pinpoint Upgrader, an item that costs 30sx ( by SOGGYPOO66 ) [X]
 + NEW SHOP ITEM: Ore Slump, a new way to catch your ore on fire! ( by crusanfrye ) [X]
 + NEW REBIRTH: Ethereal Island, a way-up high upgrader available at Life 35 ( by McFanOfMcdonalds ) [X]
@@ -83,6 +82,8 @@ Changes:
 + Global shouts! You can now pay 60c to send a message that will be broadcasted to all servers!
 + Daily gifts are now juiced
 + Expand and collapse inventory is now back on PC
+
++ NEW PREMIUM ITEM: Paint Spill, randomly changed your ore's color ( by THEskelactorXx ), delayed for model conveyor being jank.
 
 Known Issues:
 - Rejoining the game after being idle makes it seem like your data reset
