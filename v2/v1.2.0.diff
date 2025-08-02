@@ -2,7 +2,6 @@ v1.2.0
 aint not question if i want it, i need it
 
 Changes:
-+ Box Select is back in the game-- this took so long due to cross compatability support.
 + Plot Actions has been moved back to the bottom bar, by request [X]
 + Tutorial for new players, including logging to identify player dropoff
 + Ore Limit upgrade is officially gone. It took a lot of thinking for me, but mobile players NEED to be able to adjust their ore limit. It alos feels like a useless upgrade to me.
@@ -79,6 +78,7 @@ Hopefully, this will make crystals worth more, and they won't just be seen as po
 
 PLANNED:
 Changes:
++ Box Select is back in the game-- this took so long due to cross compatability support.
 + Gifting items
 + Daily gift has been moved to the right side of the screen (sorry mobile)
 + Daily gift now prompts the second gift once, and only once, per day. Within this menu is an option to buy a second daily gift OR permanent daily gifts.
