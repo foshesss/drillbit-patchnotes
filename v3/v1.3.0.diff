@@ -14,7 +14,7 @@ New Content:
 
 Improvements:
 + Fixed an issue where leaderboards did not appear immediately on join, and occasionally never updated. [X]
-+ Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update!)
++ Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update! - https://create.roblox.com/docs/reference/engine/classes/Player#AddReplicationFocus ) [X]
 
 Submissions Change:
 + You can now earn 5,000 Robux per submitted item, up from 1,000 items
