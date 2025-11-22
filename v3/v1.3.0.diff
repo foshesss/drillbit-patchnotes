@@ -1,27 +1,33 @@
 v1.3.0
 Winter Event ( pt. 1 )
 
+Changes:
++ New Platform appears next to your base, which now features all actions that were found in the Plot Action menu.
+- Removed Plot Action Menu. Moved all actions onto buttons on your base's platform. This is the first step in cleaning the interface up.
+
 Winter Event:
 + Every hour, St. Nick will fly over the island and drop presents. Collect them to unlock LIMITED TIME items!
-+ Advent Calendar reward for logging in every day. Each day, spend 10 minutes in the game and you can claim a reward!
++ Talk to the Elf on your base to access the December Advent Calendar! Claim a reward for logging in and playing for 10 minutes every day.
 + Meet goals at 5, 10, 15, 20, and 25 days unlocked in the advent calendar to earn an item!
 
 New Content:
-+ 6 new rebirth items
-+ New bundles in the shop
-+ New Exotic items
-+ 2025 Winter Box (costs 500 crystals)
++ NEW Rebirth Items (6)
++ NEW Secret gifts! Complete *hidden* quests to unlock Secret gifts that will open on December 25th, 2025!
++ NEW Exotic gifts! Unbox ANY crate in the game for a chance to win an Exotic gift that will open on December 25th, 2025!
 
 Improvements:
 + Fixed an issue where leaderboards did not appear immediately on join, and occasionally never updated. [X]
 + Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update! - https://create.roblox.com/docs/reference/engine/classes/Player#AddReplicationFocus ) [X]
 
+Fixes:
++ Fixed tooltips hovering super high above your mouse. This was broken due to a Roblox update.
+
 Submissions Change:
 + You can now earn 5,000 Robux per submitted item, up from 1,000 items
 
 Winter Event ( pt. 2 ) Preview:
-+ New Year's box
-+ New Year's items
++ 2025 Winter Box (costs 500 crystals)
++ New Year's Items
 + New bundles in the shop (New Year's themed)
 + Gift gamepasses and bundles to friends!
 + Base permissions, build on your friend's plots!
