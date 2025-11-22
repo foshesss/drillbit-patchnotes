@@ -17,11 +17,9 @@ New Content:
 + NEW Secret gifts! Complete *hidden* quests to unlock Secret gifts that will open on December 25th, 2025!
 + NEW Exotic gifts! Unbox ANY crate in the game for a chance to win an Exotic gift that will open on December 25th, 2025!
 
-Improvements:
+Fixes/Improvements:
 + Fixed an issue where leaderboards did not appear immediately on join, and occasionally never updated. [X]
 + Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update! - https://create.roblox.com/docs/reference/engine/classes/Player#AddReplicationFocus ) [X]
-
-Fixes:
 + Fixed tooltips hovering super high above your mouse. This was broken due to a Roblox update.
 
 Submissions Change:
