@@ -4,7 +4,7 @@ Winter Event ( pt. 1 )
 Changes:
 + The Drillbit Map is now SNOWY! [X]
 + Crates have now taken the shape of presents that fall from the sky! [X]
-+ New Platform appears next to your base, which now features all actions that were found in the Plot Action menu.
++ New Platform appears next to your base, which now features all actions that were found in the Plot Action menu. [X]
 - Removed Plot Action Menu. Moved all actions onto buttons on your base's platform. This is the first step in cleaning the interface up. [X]
 
 Winter Event:
@@ -19,6 +19,7 @@ New Content:
 + NEW Bundles available in the shop!
 
 Fixes/Improvements:
++ Improved loading screen. Waits for more API requests to complete before allowing you to join the game. [X]
 + Fixed an issue where leaderboards did not appear immediately on join, and occasionally never updated. [X]
 + Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update! - https://create.roblox.com/docs/reference/engine/classes/Player#AddReplicationFocus ) [X]
 + Fixed tooltips hovering super high above your mouse. This was broken due to a Roblox update.
