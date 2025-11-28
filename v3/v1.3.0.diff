@@ -7,6 +7,17 @@ Changes:
 + New Platform appears next to your base, which now features all actions that were found in the Plot Action menu. [X]
 - Removed Plot Action Menu. Moved all actions onto buttons on your base's platform. This is the first step in cleaning the interface up. [X]
 
++ Modified the game's tutorial to accomodate the new buttons on your base.
++ Rebirth prices have been DRASTICALLY decreased at lower lives. While the original prices were possible, these changes accomodate a younger player base learning the early game. All other Rebirth prices will remain the same. [X]
+! Life 1 - 100k
+! Life 2 - 25M
+! Life 3 - 50B
+! Life 4 - 100T
+! Life 5 - 25qd
+! Life 6 - 25Qn
+! Life 7 - 250Qn
+
+
 Winter Event:
 + Every hour, St. Nick will fly over the island and drop presents. Collect them to unlock LIMITED TIME items!
 + Talk to the Elf on your base to access the December Advent Calendar! Claim a reward for logging in and playing for 10 minutes every day.
@@ -30,5 +41,6 @@ Submissions Change:
 Winter Event ( pt. 2 ) Preview:
 + 2025 Winter Box (costs 500 crystals)
 + New Year's Items
++ Replacing the Skill Tree with a Research Island-- something more interactive than just some UI. It'll be like owning your own little tycoon inside of Drillbit.
 + Gift gamepasses and bundles to friends!
 + Base permissions, build on your friend's plots!
