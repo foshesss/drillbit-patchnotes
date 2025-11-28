@@ -5,6 +5,7 @@ Changes:
 + The Drillbit Map is now SNOWY! [X]
 + Crates have now taken the shape of presents that fall from the sky! [X]
 + New Platform appears next to your base, which now features all actions that were found in the Plot Action menu. [X]
++ Changed the tree models on the map to use less parts. [X]
 - Removed Plot Action Menu. Moved all actions onto buttons on your base's platform. This is the first step in cleaning the interface up. [X]
 
 + Modified the game's tutorial to accomodate the new buttons on your base.
@@ -33,7 +34,8 @@ Fixes/Improvements:
 + Improved loading screen. Waits for more API requests to complete before allowing you to join the game. [X]
 + Fixed an issue where leaderboards did not appear immediately on join, and occasionally never updated. [X]
 + Fixed ores stuttering when you walk away from your base (thanks to a new Roblox update! - https://create.roblox.com/docs/reference/engine/classes/Player#AddReplicationFocus ) [X]
-+ Fixed tooltips hovering super high above your mouse. This was broken due to a Roblox update.
++ Fixed tooltips hovering super high above your mouse. This was broken due to a Roblox update. [X]
++ FINALLY getting around to cleaning up the save file-- removing unused keys, and doing proper reconciliation. [X]
 
 Submissions Change:
 + Increased the amount of Robux earned per submission from 1,000 Robux to 5,000 Robux. [X]
@@ -44,3 +46,8 @@ Winter Event ( pt. 2 ) Preview:
 + Replacing the Skill Tree with a Research Island-- something more interactive than just some UI. It'll be like owning your own little tycoon inside of Drillbit.
 + Gift gamepasses and bundles to friends!
 + Base permissions, build on your friend's plots!
+
+Future Updates:
++ Loading your save file and replicating data before you even click play.
++ Removing Viewports from the inventory and converting them to Decals.
+
