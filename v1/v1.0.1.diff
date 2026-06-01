@@ -1,0 +1,53 @@
+v1.0.1 - new crate and furnace loot!
+
+General Changes:
++ Created GitHub for patch notes
++ Money cap increased to 50Qn
+
+New Content:
++ A NEW Crate is now obtainable, you must discover it somewhere on the map!
++ Furnace Loot! Earn potions and crystals for FREE by processing ore! ...and maybe something better..
++ New Potion: Unbox Slot Potion (earn +1 unbox slot for 3 minutes!)
++ New Code: 'MOREUNBOXES'
++ Added the mysterious gate...
++ Added some admin abuse commands.. 
+
++ New tier of potions, that is EVEN STRONGER!
++ You can now purchase Crystals in the shop, and you can unlock a Crystalline dropper for purchasing the highest tier.
++ Potion Pack now contains all top tiers of potions and an Unbox Slot potion.
+
+- Removed bugged items from player inventories.
+
+QoL Changes:
++ New pop-up and effects for completing achievements, so you know when you're making progress.
++ You will now continue opening the last crate you opened when you rejoin.
++ Dropper stat info now shows Ore Size.
++ Added a pointer inventory for onboarding
++ Tooltip now appears on shop items.
++ Clear all button can now be found in settings (this will be in a nice place later)
+
+- Hid the inspect button while it does not work (coming soon!)
+
+New Settings:
++ Turn on/off ore values to reduce lag! [off = no ore values, minimal = every 10 ore, all = every ore ]
+
+Bug Fixes:
++ Onboarding no longer covers top bar and ore limit
++ Sapphire Dropper is now a legendary item
+
+Balance Changes:
++ Toxic Wasteland now has stats. It does 25x if 3+ effects, 12.5x otherwise.
+
+PUSHED TO NEXT UPDATE:
+
+
+QoL Changes:
++ Removed unobtainable items from the index.
++ Controls now appear on screen
+
++ New Inventory, more traditional format, like Miner's Haven.
++ Smarter search (search by tier, item type, name)
+
+New Settings:
++ Toggle Advanced Filters On (sort by upgrade range, multiplier, shiny only, mythic only)
++ Big Secrets, turn on/off secrets appearing big in your inventory
