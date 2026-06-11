@@ -8,6 +8,9 @@ New Content:
 + New Rebirth (Life 4)
 + New Upgrades for Plot Size, Luck Multiplier, and Shiny Chance
 + Remove Mode, so you can quickly remove items by just clicking on them
++ Added a dropper for the ore processed 'Ore Processor' achievement
++ Added an upgrader for unboxing 'Box Breaker' achievement
++ Added an upgrader for daily login 'Regular' achievement.
 
 New Setting:
 + Advanced Stats - See additional stats that couldn't originally fit on screen.
@@ -18,8 +21,11 @@ Balance Changes:
 
 New Changes:
 + Inventory revamp, moving away from the bottom bar and rather a menu that pops up as needed.
++ Box Select, select many different items all at once!
 + Fixed some localization issues that made some icons not appear
 + Decorations can now be acquired through furnace loot
 
 + Periastron's Throne now has stats
 - Azure Scanner now actually scans, as it should have. The original static beam was not intended.
+
+- Removed the 'Ore Value Too High' notification. Will be added in a future update.
