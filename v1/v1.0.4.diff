@@ -18,6 +18,7 @@ New Setting:
 
 Bug Fixes:
 + Fixed daily login 'Regular' achievement. [X]
++ Silenced HelpfulTips warnings (will be used in a future update).
 - Removed the 'Ore Value Too High' notification. Will be added in a future update. [X]
 
 Balance Changes:
