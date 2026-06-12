@@ -19,7 +19,9 @@ New Setting:
 Bug Fixes:
 + Fixed daily login 'Regular' achievement. [X]
 + Silenced HelpfulTips warnings (will be used in a future update).
++ Added a comma to ore value tooltip
 - Removed the 'Ore Value Too High' notification. Will be added in a future update. [X]
+
 
 Balance Changes:
 + Furnace Loot Secret item chance increased from 1/1M -> 1/100K [X]
