@@ -14,6 +14,10 @@ New Content:
 New Setting:
 + Advanced Stats - See additional stats that couldn't originally fit on screen. [X]
 
+Bug Fixes:
++ Fixed daily login 'Regular' achievement. [X]
+- Removed the 'Ore Value Too High' notification. Will be added in a future update. [X]
+
 Balance Changes:
 + Furnace Loot Secret item chance increased from 1/1M -> 1/100K [X]
 + Money cap increased to 1Sp (from 50Qn) [X]
@@ -23,8 +27,6 @@ New Changes:
 
 + Periastron's Throne now has stats
 - Azure Scanner now actually scans, as it should have. The original static beam was not intended. [X]
-
-- Removed the 'Ore Value Too High' notification. Will be added in a future update. [X]
 
 DELAYED:
 + Inventory revamp, moving away from the bottom bar and rather a menu that pops up as needed.
