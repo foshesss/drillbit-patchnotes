@@ -1,37 +1,37 @@
 v1.0.4 - new content + base layouts!
 
 New Content:
-+ New Crate - Space Crate (5 items) [X]
-+ New Crate - Candy Crate (6 items) [X]
-+ New Secret (hidden in one of the two new crates!) [X]
++ New Crate - Space Crate (5 items)
++ New Crate - Candy Crate (6 items)
++ New Secret (hidden in one of the two new crates!)
 
-+ New Rebirth (Life 4) [X]
-+ New Upgrades for Plot Size, Luck Multiplier, and Shiny Chance [X]
-+ Added a dropper for the ore processed 'Ore Processor' achievement. [X]
-+ Added an upgrader for unboxing 'Box Breaker' achievement [X]
-+ Added an upgrader for daily login 'Regular' achievement. [X]
++ New Rebirth (Life 4)
++ New Upgrades for Plot Size, Luck Multiplier, and Shiny Chance
++ Added a dropper for the ore processed 'Ore Processor' achievement.
++ Added an upgrader for unboxing 'Box Breaker' achievement
++ Added an upgrader for daily login 'Regular' achievement.
 
 + Base Layouts! You can now save layouts and share them with your friends!
 
 New Setting:
-+ Advanced Stats - See additional stats that couldn't originally fit on screen. [X]
++ Advanced Stats - See additional stats that couldn't originally fit on screen
 
 Bug Fixes:
-+ Fixed daily login 'Regular' achievement. [X]
-+ Silenced HelpfulTips warnings (will be used in a future update).
++ Fixed daily login 'Regular' achievement
++ Silenced HelpfulTips warnings (will be used in a future update)
 + Added a comma to ore value tooltip
-- Removed the 'Ore Value Too High' notification. Will be added in a future update. [X]
+- Removed the 'Ore Value Too High' notification. Will be added in a future update
 
 
 Balance Changes:
-+ Furnace Loot Secret item chance increased from 1/1M -> 1/100K [X]
-+ Money cap increased to 1Sp (from 50Qn) [X]
++ Furnace Loot Secret item chance increased from 1/1M -> 1/100K
++ Money cap increased to 1Sp (from 50Qn)
 
 New Changes:
 + Fixed some localization issues that made some icons not appear
 
 + Periastron's Throne now has stats
-- Azure Scanner now actually scans, as it should have. The original static beam was not intended. [X]
+- Azure Scanner now actually scans, as it should have. The original static beam was not intended
 
 DELAYED:
 + Inventory revamp, moving away from the bottom bar and rather a menu that pops up as needed.
