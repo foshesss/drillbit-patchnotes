@@ -1,18 +1,18 @@
 v1.0.7 - admin abuse fixes
 
 Changes:
-+ Changed Ivory Solarizer model, to fix bad collisions with ore.
-+ Fixed Z-Fighting inside of Moonstone Dropper.
-+ Removed Corium Dropper from #crazy-unboxes Discord channel, due to being a common Secret item.
-+ Advanced Tooltips setting now hides potion durations when toggled on.
-+ New icons for the Ivory Solarizer and shiny versions of the Dyson Module.
-+ If you cannot afford a box, you can continue unboxxing and it'll just wait until you can afford it.
-+ Added 'Oil Well' description about how fire interacts with the upgrader.
++ If you cannot afford a box, you can continue unboxxing and it'll just wait to unbox another until you can afford it
++ Changed Ivory Solarizer model, to fix bad collisions with ore
++ Fixed Z-Fighting inside of Moonstone Dropper
++ Removed Corium Dropper from #crazy-unboxes Discord channel, due to being a common Secret item
++ Advanced Tooltips setting now hides potion durations when toggled on
++ New icons for the Ivory Solarizer and shiny versions of the Dyson Module
++ Added 'Oil Well' description about how fire interacts with the upgrader
 
 Bug Fixes:
 + Fixed a floating point error inside of Advanced Tooltips
-+ Fixed 'The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris' error.
-+ Removed floating items in the distance.
-+ Ore is now cleared from your base when you load a layout, clear your base, or buy a plot upgrade.
-+ You no longer unbox immediately on join if you stop unboxxing and then rejoin.
-
++ Fixed 'The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris' error
++ Removed floating items in the distance
++ Ore is now cleared from your base when you load a layout, clear your base, or buy a plot upgrade
++ You no longer unbox immediately on join if you stop unboxxing and then rejoin
++ Fixed a bug that flagged you couldn't afford a crate you actually could afford
