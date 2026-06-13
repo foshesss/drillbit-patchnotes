@@ -5,6 +5,7 @@ Changes:
 + Fixed Z-Fighting inside of Moonstone Dropper.
 + Removed Corium Dropper from #crazy-unboxes , due to being a common Secret item.
 + Advanced Tooltips setting now hides potion durations when toggled on.
++ New icons for the Ivory Solarizer and shiny versions of the Dyson Module.
 
 Bug Fixes:
 + Fixed a floating point error inside of Advanced Tooltips
