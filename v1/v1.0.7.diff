@@ -1,5 +1,10 @@
 v1.0.7 - admin abuse fixes
 
+Changes:
++ Changed Ivory Solarizer model, to fix bad collisions with ore.
++ Fixed Z-Fighting inside of Moonstone Dropper.
+
 Bug Fixes:
-+ Fixed a floating point error
-+ The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris
++ Fixed a floating point error inside of Advanced Tooltips
++ Fixed 'The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris' error.
+
