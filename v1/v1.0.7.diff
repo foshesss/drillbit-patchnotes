@@ -9,4 +9,5 @@ Changes:
 Bug Fixes:
 + Fixed a floating point error inside of Advanced Tooltips
 + Fixed 'The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris' error.
++ Removed floating items in the distance.
 
