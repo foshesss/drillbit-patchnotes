@@ -3,7 +3,7 @@ v1.0.7 - admin abuse fixes
 Changes:
 + Changed Ivory Solarizer model, to fix bad collisions with ore.
 + Fixed Z-Fighting inside of Moonstone Dropper.
-+ Removed Corium Dropper from #crazy-unboxes , due to being a common Secret item.
++ Removed Corium Dropper from #crazy-unboxes Discord channel, due to being a common Secret item.
 + Advanced Tooltips setting now hides potion durations when toggled on.
 + New icons for the Ivory Solarizer and shiny versions of the Dyson Module.
 + If you cannot afford a box, you can continue unboxxing and it'll just wait until you can afford it.
