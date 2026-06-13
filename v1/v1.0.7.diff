@@ -7,6 +7,7 @@ Changes:
 + Advanced Tooltips setting now hides potion durations when toggled on.
 + New icons for the Ivory Solarizer and shiny versions of the Dyson Module.
 + If you cannot afford a box, you can continue unboxxing and it'll just wait until you can afford it.
++ Added 'Oil Well' description about how fire interacts with the upgrader.
 
 Bug Fixes:
 + Fixed a floating point error inside of Advanced Tooltips
