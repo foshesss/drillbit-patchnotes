@@ -6,10 +6,12 @@ Changes:
 + Removed Corium Dropper from #crazy-unboxes , due to being a common Secret item.
 + Advanced Tooltips setting now hides potion durations when toggled on.
 + New icons for the Ivory Solarizer and shiny versions of the Dyson Module.
++ If you cannot afford a box, you can continue unboxxing and it'll just wait until you can afford it.
 
 Bug Fixes:
 + Fixed a floating point error inside of Advanced Tooltips
 + Fixed 'The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris' error.
 + Removed floating items in the distance.
 + Ore is now cleared from your base when you load a layout, clear your base, or buy a plot upgrade.
++ You no longer unbox immediately on join if you stop unboxxing and then rejoin.
 
