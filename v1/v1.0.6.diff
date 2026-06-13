@@ -1,0 +1,20 @@
+v1.0.6
+
+Balance Changes:
++ Cookie Upgrader buffed to 1.5 multi, range 5m - 15m
++ Sugar Churner buffed to range 10m - 30m
++ Gumball Enchanter buffed to range 0 - 25m
++ Azure Scanner conveyor speed decreased from 12 -> 6 
++ Slushie Dropper now has neon ore (was supposed to)
+
++ Chartreuse Collider now works *after* the Ore Wash, not before
++ Netrozite Mine is now correctly given as an achievement. All players that already earned the achievement will have this in their inventory
+
+Bug Fixes:
++ Fixed the pop-up for crates not showing up on console
++ Fixed a bug where gamepass gifting was incorrectly preventing players from receiving gifts
++ Cookie Upgrader can now actually touch ore
++ Cookie Upgrader will now flash when ore is invalid
+
++ Secrets unboxed stat now increments for Corium Mine
++ Secret badge is now awarded to Corium Mine owners
