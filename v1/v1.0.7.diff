@@ -1,0 +1,5 @@
+v1.0.7 - admin abuse fixes
+
+Bug Fixes:
++ Fixed a floating point error
++ The Parent property of OreTemplate is locked, current parent: NULL, new parent Debris
