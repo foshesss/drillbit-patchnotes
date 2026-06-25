@@ -1,0 +1,16 @@
+v1.0.9 - alien update!!
+
+New Content:
++ 2 New Crates (11 new items)
++ 3 New Limited Items
++ New Rebirth
++ Teleporters (locked behind Rebirth 5)
+
+Bug Fixes:
++ Empty Tooltips are now filled
++ Rebirth 4 and 5 now have a badge
++ Added Shiny Chance T1 Potions to furnace loot
++ Mobile Move Modal will never appear off screen for mobile players now.
+
+Balance Changes:
++ Ore Shrinker/Expander no longer has a size limit for use.
