@@ -21,7 +21,7 @@ Bug Fixes:
 + Corium Ore no longer eats other Corium Ore [X]
 + Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident) [X]
 + Removes sound spamming when you place and cancel placement at the same time [X]
-+ Fixed turning down roll sfx volume affects the sound of selecting placed items
++ Fixed turning down roll sfx volume affects the sound of selecting placed items [X]
 + Fixed not being able to type ore limit inside of settings
 + Fixed double announcement/secret messages [X]
 + Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance'
