@@ -17,7 +17,7 @@ Bug Fixes:
 + Fixed inventory updating breaking if you type a malformed string inside of the search query [X]
 + Unbox Slot Potion's icon has been fixed in the Potions menu.
 + Fixed items not aligning on the base sometimes [X]
-+ Corium no longer eats other Corium [X]
++ Corium Ore no longer eats other Corium Ore [X]
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use.
