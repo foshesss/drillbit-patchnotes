@@ -14,7 +14,7 @@ Bug Fixes:
 + Empty Tooltips are now filled
 + Rebirth 4 and 5 now have a badge [X]
 + Added Shiny Chance T1 Potions to furnace loot
-+ Mobile Move Modal will never appear off screen for mobile players now.
++ Mobile Move button will never appear off screen for mobile players now. [X]
 + Fixed inventory updating breaking if you type a malformed string inside of the search query [X]
 + Unbox Slot Potion's icon has been fixed in the Potions menu.
 + Fixed items not aligning on the base sometimes [X]
