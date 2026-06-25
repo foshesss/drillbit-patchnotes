@@ -24,6 +24,7 @@ Bug Fixes:
 + Fixed turning down roll sfx volume affects the sound of selecting placed items
 + Fixed not being able to type ore limit inside of settings
 + Fixed double announcement/secret messages
++ Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance'
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use.
