@@ -19,7 +19,7 @@ Bug Fixes:
 + Unbox Slot Potion's icon has been fixed in the Potions menu.
 + Fixed items not aligning on the base sometimes [X]
 + Corium Ore no longer eats other Corium Ore [X]
-+ Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident)
++ Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident) [X]
 + Removes sound spamming when you place and cancel placement at the same time
 + Fixed turning down roll sfx volume affects the sound of selecting placed items
 + Fixed not being able to type ore limit inside of settings
