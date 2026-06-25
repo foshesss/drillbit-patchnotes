@@ -18,6 +18,7 @@ Bug Fixes:
 + Unbox Slot Potion's icon has been fixed in the Potions menu.
 + Fixed items not aligning on the base sometimes [X]
 + Corium Ore no longer eats other Corium Ore [X]
++ Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident) [X]
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use.
