@@ -6,11 +6,17 @@ New Content:
 + New Rebirth
 + Teleporters (locked behind Rebirth 5)
 
+Changes:
++ Removed Colossal Stone Dropper discord notif.
+
 Bug Fixes:
 + Empty Tooltips are now filled
 + Rebirth 4 and 5 now have a badge
 + Added Shiny Chance T1 Potions to furnace loot
 + Mobile Move Modal will never appear off screen for mobile players now.
++ Fixed inventory updating breaking if you type a malformed string inside of the search query.
++ Unbox Slot Potion's icon has been fixed in the Potions menu.
++ Fixed items not aligning on the base sometimes.
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use.
