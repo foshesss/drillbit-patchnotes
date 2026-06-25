@@ -10,6 +10,8 @@ New Content:
 Changes:
 + Removed Colossal Stone Dropper discord notif. [X]
 + Inventory Revamp [-]
++ Temporarily removed the 'Inspect' button (didn't do anything anyway)
++ You can now hover over any item in the game to see what it is
 
 Bug Fixes:
 + Empty Tooltips are now filled
