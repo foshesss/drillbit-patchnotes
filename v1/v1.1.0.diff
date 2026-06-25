@@ -12,6 +12,7 @@ Changes:
 + Inventory Revamp [-]
 + Temporarily removed the 'Inspect' button (didn't do anything anyway)
 + You can now hover over any item in the game to see what it is
++ Added a day/night cycle [X]
 
 Bug Fixes:
 + Empty Tooltips are now filled
@@ -31,3 +32,4 @@ Bug Fixes:
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use. [X]
+- Max Ore Limit decreased to 100, as part of rebalancing + unfair advantage for stronger devices. [X]
