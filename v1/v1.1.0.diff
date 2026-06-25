@@ -19,13 +19,13 @@ Bug Fixes:
 + Added Shiny Chance T1 Potions to furnace loot [X]
 + Mobile Move button will never appear off screen for mobile players now. [X]
 + Fixed inventory updating breaking if you type a malformed string inside of the search query [X]
-+ Unbox Slot Potion's icon has been fixed in the Potions menu.
++ Unbox Slot Potion's icon has been fixed in the Potions menu, and has a new icon [X]
 + Fixed items not aligning on the base sometimes [X]
 + Corium Ore no longer eats other Corium Ore [X]
 + Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident) [X]
 + Removes sound spamming when you place and cancel placement at the same time [X]
 + Fixed turning down roll sfx volume affects the sound of selecting placed items [X]
-+ Fixed not being able to type ore limit inside of settings
++ Fixed not being able to type ore limit inside of settings [X]
 + Fixed double announcement/secret messages [X]
 + Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance'
 
