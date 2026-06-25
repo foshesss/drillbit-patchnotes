@@ -22,7 +22,7 @@ Bug Fixes:
 + Removes sound spamming when you place and cancel placement at the same time
 + Fixed turning down roll sfx volume affects the sound of selecting placed items
 + Fixed not being able to type ore limit inside of settings
-+ Double announcement/secret messages
++ Fixed double announcement/secret messages
 
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use.
