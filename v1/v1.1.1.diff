@@ -1,8 +1,13 @@
 v1.1.1 - small balance changes
 
+Changes:
++ Added more descriptive description to then 'Relic' furnace.
+
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
 + Crystal Comets now despawn after 5 minutes.
++ Enchanter no longer says "no refunds" when cancelling.
 
 Balance Changes:
 + Ore Shrinker now shrinks a lot more.
++ Relic no longer looks for 'Red' ore, and now looks for 'Neon' ore.
