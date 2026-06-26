@@ -1,7 +1,7 @@
 v1.1.0 - alien update!!
 
 New Content:
-+ 2 New Crates (12 new items)
++ 2 New Crates (12 new items) [X]
 + 3 New Limited Items [X]
 + New Rebirth [X]
 + Teleporters (locked behind Rebirth 5) [X]
@@ -12,12 +12,12 @@ New Content:
 Changes:
 + Removed Colossal Stone Dropper discord notif. [X]
 + Temporarily removed the 'Inspect' button (didn't do anything anyway) [X]
-+ You can now hover over any item in the game to see what it is
 + Added a day/night cycle [X]
++ Icons now appear for stats rewards (the empty icons in rebirthing, achievements)
 
 Bug Fixes:
-+ Empty Tooltips are now filled
-+ Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance'
++ Empty Tooltips are now filled [X]
++ Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance' [X]
 + Rebirth 4 and 5 now have a badge [X]
 + Added Shiny Chance T1 Potions to furnace loot [X]
 + Mobile Move button will never appear off screen for mobile players now. [X]
@@ -38,3 +38,4 @@ Balance Changes:
 
 DELAYED:
 + Inventory Revamp
++ You can now hover over any item in the game to see what it is
