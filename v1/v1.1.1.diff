@@ -8,6 +8,7 @@ Bug Fixes:
 + Crystal Comets now despawn after 5 minutes.
 + Enchanter no longer says "no refunds" when cancelling.
 + Hoarde Treasure weird hitbox fix
++ Multiple secrets of the same type can now appear in the Enchanter
 
 Balance Changes:
 + Ore Shrinker now shrinks a lot more.
