@@ -11,7 +11,6 @@ New Content:
 
 Changes:
 + Removed Colossal Stone Dropper discord notif. [X]
-+ Inventory Revamp [-]
 + Temporarily removed the 'Inspect' button (didn't do anything anyway) [X]
 + You can now hover over any item in the game to see what it is
 + Added a day/night cycle [X]
@@ -35,3 +34,7 @@ Bug Fixes:
 Balance Changes:
 + Ore Shrinker/Expander no longer has a size limit for use. [X]
 - Max Ore Limit decreased to 100, as part of rebalancing + unfair advantage for stronger devices. [X]
+
+
+DELAYED:
++ Inventory Revamp
