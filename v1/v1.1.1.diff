@@ -1,0 +1,8 @@
+v1.1.1 - small balance changes
+
+Bug Fixes:
++ Helio-grader conveyor now moves ore.
++ Crystal Comets now despawn after 5 minutes.
+
+Balance Changes:
++ Ore Shrinker now shrinks a lot more.
