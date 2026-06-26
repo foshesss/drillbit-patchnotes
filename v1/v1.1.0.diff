@@ -1,39 +1,39 @@
 v1.1.0 - alien update!!
 
 New Content:
-+ 2 New Crates (12 new items) [X]
-+ 3 New Limited Items [X]
-+ New Rebirth [X]
-+ Teleporters (locked behind Rebirth 5) [X]
-+ Added Icons for all gamepasses [X] and products
-+ Enchanter, enchant any item to make it better! [X]
-+ Crystal Comets! Need extra crystals? At night, Crystal Comets will fall from the sky! [X]
++ 2 New Crates (12 new items)
++ 3 New Limited Items
++ New RebirtH
++ Teleporters (locked behind Rebirth 5)
++ Added Icons for all gamepasses and products
++ Enchanter, enchant any item to make it better!
++ Crystal Comets! Need extra crystals? At night, Crystal Comets will fall from the sky!
 
 Changes:
-+ Removed Colossal Stone Dropper discord notif. [X]
-+ Temporarily removed the 'Inspect' button (didn't do anything anyway) [X]
-+ Added a day/night cycle [X]
++ Removed Colossal Stone Dropper discord notif.
++ Temporarily removed the 'Inspect' button (didn't do anything anyway)
++ Added a day/night cycle
 + Icons now appear for stats rewards (the empty icons in rebirthing, achievements)
 
 Bug Fixes:
-+ Empty Tooltips are now filled [X]
-+ Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance' [X]
-+ Rebirth 4 and 5 now have a badge [X]
-+ Added Shiny Chance T1 Potions to furnace loot [X]
-+ Mobile Move button will never appear off screen for mobile players now. [X]
-+ Fixed inventory updating breaking if you type a malformed string inside of the search query [X]
-+ Unbox Slot Potion's icon has been fixed in the Potions menu, and has a new icon [X]
-+ Fixed items not aligning on the base sometimes [X]
-+ Corium Ore no longer eats other Corium Ore [X]
-+ Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident) [X]
-+ Removes sound spamming when you place and cancel placement at the same time [X]
-+ Fixed turning down roll sfx volume affects the sound of selecting placed items [X]
-+ Fixed not being able to type ore limit inside of settings [X]
-+ Fixed double announcement/secret messages [X]
++ Empty Tooltips are now filled
++ Potions now show proper readable text instead of data name for boosts. Example: 'shinyChance' -> 'Shiny Chance'
++ Rebirth 4 and 5 now have a badge
++ Added Shiny Chance T1 Potions to furnace loot
++ Mobile Move button will never appear off screen for mobile players now.
++ Fixed inventory updating breaking if you type a malformed string inside of the search query
++ Unbox Slot Potion's icon has been fixed in the Potions menu, and has a new icon
++ Fixed items not aligning on the base sometimes
++ Corium Ore no longer eats other Corium Ore
++ Fixed ore limit going over ore (visual bug, fix from v1.0.7 was reverted by accident)
++ Removes sound spamming when you place and cancel placement at the same time
++ Fixed turning down roll sfx volume affects the sound of selecting placed items
++ Fixed not being able to type ore limit inside of settings
++ Fixed double announcement/secret messages
 
 Balance Changes:
-+ Ore Shrinker/Expander no longer has a size limit for use. [X]
-- Max Ore Limit decreased to 100, as part of rebalancing + unfair advantage for stronger devices. [X]
++ Ore Shrinker/Expander no longer has a size limit for use.
+- Max Ore Limit decreased to 100, as part of rebalancing + unfair advantage for stronger devices.
 
 
 DELAYED:
