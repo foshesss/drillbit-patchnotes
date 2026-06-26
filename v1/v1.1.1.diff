@@ -1,7 +1,7 @@
 v1.1.1 - small balance changes
 
 Changes:
-+ Added more descriptive description to then 'Relic' furnace.
++ Added more descriptive description to then 'Obelisk' furnace.
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
@@ -10,4 +10,4 @@ Bug Fixes:
 
 Balance Changes:
 + Ore Shrinker now shrinks a lot more.
-+ Relic no longer looks for 'Red' ore, and now looks for 'Neon' ore.
++ Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore.
