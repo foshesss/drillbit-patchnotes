@@ -7,6 +7,7 @@ Bug Fixes:
 + Helio-grader conveyor now moves ore.
 + Crystal Comets now despawn after 5 minutes.
 + Enchanter no longer says "no refunds" when cancelling.
++ Hoarde Treasure weird hitbox fix
 
 Balance Changes:
 + Ore Shrinker now shrinks a lot more.
