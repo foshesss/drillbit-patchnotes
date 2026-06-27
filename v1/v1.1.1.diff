@@ -15,10 +15,10 @@ Changes:
 + You can now hover over items in the enchanter to see what their stats are. [X]
 
 Bug Fixes:
-+ Helio-grader conveyor now moves ore.
++ Helio-grader conveyor now moves ore. [X]
++ Hoarded Treasure weird hitbox fix [X]
 + Crystal Comets now despawn after 5 minutes.
 + Enchanter no longer says "no refunds" when cancelling.
-+ Hoarded Treasure weird hitbox fix
 + Multiple secrets of the same type can now appear in the Enchanter
 + Updated description of the Candy Bomb to reflect longer ore lifetime
 + People that do not own the Rebirth IV badge (and are rebirth 4+) have been awarded it.
