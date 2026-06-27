@@ -6,14 +6,20 @@ New Content:
 Changes:
 + Added more descriptive description to then 'Obelisk' furnace.
 + Adds an 'Enchants Offline' subheader within the Enchanter.
++ Made crystal comets despawn after 5 minutes.
++ Added a few new admin commands
++ Added build credits for each item
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
 + Crystal Comets now despawn after 5 minutes.
 + Enchanter no longer says "no refunds" when cancelling.
-+ Hoarde Treasure weird hitbox fix
++ Hoarded Treasure weird hitbox fix
 + Multiple secrets of the same type can now appear in the Enchanter
++ Updated description of the Candy Bomb to reflect longer ore lifetime
++ People that do not own the Rebirth IV badge (and are rebirth 4+) have been awarded it.
 
 Balance Changes:
 + Ore Shrinker now shrinks a lot more.
 + Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore.
++ Alien Crate now costs 1Sp, as opposed to 50Sp.
