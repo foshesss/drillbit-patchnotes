@@ -18,7 +18,7 @@ Changes:
 Bug Fixes:
 + Helio-grader conveyor now moves ore. [X]
 + Hoarded Treasure weird hitbox fix [X]
-+ Crystal Comets now despawn after 5 minutes.
++ Crystal Comets now despawn after 5 minutes. [X]
 + Enchanter no longer says "no refunds" when cancelling. [X]
 + Multiple secrets of the same type can now appear in the Enchanter [X]
 + Updated description of the Candy Bomb to reflect longer ore lifetime
@@ -29,3 +29,4 @@ Balance Changes:
 + Ore Shrinker now shrinks ore by 15%, as opposed to the original 2.5%. [X]
 + Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore. [X]
 + Alien Crate now costs 1Sp, as opposed to 50Sp. [X]
+- Chartreuse Collider can now only upgrade ore up to 250Qn. [X]
