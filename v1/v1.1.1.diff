@@ -4,29 +4,29 @@ New Content:
 + 3 New Index Tiers
 
 Changes:
-+ Added more descriptive description to then 'Obelisk' furnace. [X]
-+ Adds an 'Enchants Offline' subheader within the Enchanter. [X]
-+ Made crystal comets despawn after 5 minutes. [X]
-+ Added a few new admin commands. [X]
-+ Added build credits for each item [X]
++ Added more descriptive description to then 'Obelisk' furnace.
++ Adds an 'Enchants Offline' subheader within the Enchanter.
++ Made crystal comets despawn after 5 minutes.
++ Added a few new admin commands.
++ Added build credits for each submitter item
 + Add a global giveitem admin command, and confirmation when sent. Use ProfileStore messagehandler to handle this.
 + $/min and $/sec are now under ore limit
-+ Items that you can only obtain once will complete all index entries underneath their tier (example: shiny mvp completes mvp, shiny mythic rebirth complete all rebirth entries) [X]
-+ You can now hover over items in the enchanter to see what their stats are. [X]
-+ Special Items and Secrets are no longer shown in your Index. However, if you own one, it will show, and contribute to the index. [X]
++ Items that you can only obtain once will complete all index entries underneath their tier (example: shiny mvp completes mvp, shiny mythic rebirth complete all rebirth entries)
++ You can now hover over items in the enchanter to see what their stats are.
++ Special Items and Secrets are no longer shown in your Index. However, if you own one, it will show, and contribute to the index.
 
 Bug Fixes:
-+ Helio-grader conveyor now moves ore. [X]
-+ Hoarded Treasure weird hitbox fix [X]
-+ Crystal Comets now despawn after 5 minutes. [X]
-+ Enchanter no longer says "no refunds" when cancelling. [X]
-+ Multiple secrets of the same type can now appear in the Enchanter [X]
++ Helio-grader conveyor now moves ore.
++ Hoarded Treasure weird hitbox fix
++ Crystal Comets now despawn after 5 minutes.
++ Enchanter no longer says "no refunds" when cancelling.
++ Multiple secrets of the same type can now appear in the Enchanter
 + Updated description of the Candy Bomb to reflect longer ore lifetime
-+ People that do not own the Rebirth IV badge (and are rebirth 4+) have been awarded it. [X]
-+ Crystal Comets are now crystal shaped (not crate shaped), and float up and down.
++ People that do not own the Rebirth IV badge (and are rebirth 4+) have been awarded it
++ Crystal Comets are now crystal shaped (not crate shaped), and float up and down
 
 Balance Changes:
-+ Ore Shrinker now shrinks ore by 15%, as opposed to the original 2.5%. [X]
-+ Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore. [X]
-+ Alien Crate now costs 1Sp, as opposed to 50Sp. [X]
-- Chartreuse Collider can now only upgrade ore up to 250Qn. [X]
++ Ore Shrinker now shrinks ore by 15%, as opposed to the original 2.5%
++ Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore
++ Alien Crate now costs 1Sp, as opposed to 50Sp
+- Chartreuse Collider can now only upgrade ore up to 250Qn
