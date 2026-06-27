@@ -10,6 +10,7 @@ Changes:
 + Added a few new admin commands
 + Added build credits for each item
 + Add a global giveitem admin command, and confirmation when sent. Use ProfileStore messagehandler to handle this.
++ $/min and $/sec are now under ore limit
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
