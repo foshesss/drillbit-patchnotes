@@ -7,12 +7,12 @@ Changes:
 + Added more descriptive description to then 'Obelisk' furnace.
 + Adds an 'Enchants Offline' subheader within the Enchanter.
 + Made crystal comets despawn after 5 minutes.
-+ Added a few new admin commands
++ Added a few new admin commands. [X]
 + Added build credits for each item
 + Add a global giveitem admin command, and confirmation when sent. Use ProfileStore messagehandler to handle this.
 + $/min and $/sec are now under ore limit
 + Items that you can only obtain once will complete all index entries underneath their tier (example: shiny mvp completes mvp, shiny mythic rebirth complete all rebirth entries)
-+ You can now hover over items in the enchanter to see what their stats are.
++ You can now hover over items in the enchanter to see what their stats are. [X]
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
