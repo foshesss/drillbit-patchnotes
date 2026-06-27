@@ -1,12 +1,12 @@
 v1.1.1 - small balance changes
 
 New Content:
-+ New Index Tiers
++ 3 New Index Tiers
 
 Changes:
 + Added more descriptive description to then 'Obelisk' furnace. [X]
-+ Adds an 'Enchants Offline' subheader within the Enchanter.
-+ Made crystal comets despawn after 5 minutes.
++ Adds an 'Enchants Offline' subheader within the Enchanter. [X]
++ Made crystal comets despawn after 5 minutes. [X]
 + Added a few new admin commands. [X]
 + Added build credits for each item [X]
 + Add a global giveitem admin command, and confirmation when sent. Use ProfileStore messagehandler to handle this.
@@ -19,8 +19,8 @@ Bug Fixes:
 + Helio-grader conveyor now moves ore. [X]
 + Hoarded Treasure weird hitbox fix [X]
 + Crystal Comets now despawn after 5 minutes.
-+ Enchanter no longer says "no refunds" when cancelling.
-+ Multiple secrets of the same type can now appear in the Enchanter
++ Enchanter no longer says "no refunds" when cancelling. [X]
++ Multiple secrets of the same type can now appear in the Enchanter [X]
 + Updated description of the Candy Bomb to reflect longer ore lifetime
 + People that do not own the Rebirth IV badge (and are rebirth 4+) have been awarded it. [X]
 + Crystal Comets are now crystal shaped (not crate shaped), and float up and down.
