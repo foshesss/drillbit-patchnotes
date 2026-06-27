@@ -13,6 +13,7 @@ Changes:
 + $/min and $/sec are now under ore limit
 + Items that you can only obtain once will complete all index entries underneath their tier (example: shiny mvp completes mvp, shiny mythic rebirth complete all rebirth entries)
 + You can now hover over items in the enchanter to see what their stats are. [X]
++ Special Items and Secrets are no longer shown in your Index. However, if you own one, it will show, and contribute to the index.
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore. [X]
