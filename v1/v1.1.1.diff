@@ -4,7 +4,7 @@ New Content:
 + New Index Tiers
 
 Changes:
-+ Added more descriptive description to then 'Obelisk' furnace.
++ Added more descriptive description to then 'Obelisk' furnace. [X]
 + Adds an 'Enchants Offline' subheader within the Enchanter.
 + Made crystal comets despawn after 5 minutes.
 + Added a few new admin commands. [X]
@@ -25,6 +25,6 @@ Bug Fixes:
 + Crystal Comets are now crystal shaped (not crate shaped), and float up and down.
 
 Balance Changes:
-+ Ore Shrinker now shrinks a lot more.
-+ Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore.
-+ Alien Crate now costs 1Sp, as opposed to 50Sp.
++ Ore Shrinker now shrinks ore by 15%, as opposed to the original 2.5%. [X]
++ Obelisk Furnace no longer looks for 'Red' ore, and now looks for 'Neon' ore. [X]
++ Alien Crate now costs 1Sp, as opposed to 50Sp. [X]
