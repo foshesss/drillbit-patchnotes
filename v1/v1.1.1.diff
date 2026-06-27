@@ -11,6 +11,7 @@ Changes:
 + Added build credits for each item
 + Add a global giveitem admin command, and confirmation when sent. Use ProfileStore messagehandler to handle this.
 + $/min and $/sec are now under ore limit
++ Items that you can only obtain once will complete all index entries underneath their tier (example: shiny mvp completes mvp, shiny mythic rebirth complete all rebirth entries)
 
 Bug Fixes:
 + Helio-grader conveyor now moves ore.
