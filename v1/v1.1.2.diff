@@ -8,3 +8,4 @@ Balance Changes:
 
 Bug Fixes:
 + Fixed a rare bug that caused loading to hang.
++ Removed 1 precision decimals from item descriptions, and now all items use 2 decimal precision.
