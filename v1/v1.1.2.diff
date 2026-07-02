@@ -2,6 +2,7 @@ v1.1.2 - events!
 
 New Content:
 + Every 30 minutes, an event will trigger, giving every player a free boost. 
++ ALIEN INVASION!! A random event that drops up to 4 different unique items! Collect them around the map!
 
 Balance Changes:
 + Enchant skip price now adjusts based on time remaining. (1m, 5m, 15m, 30m, 45m, 1h, 2h, 3h, 6h, 12h, 18h, 24h, 30h, 36h, 42h, 48h)
@@ -9,3 +10,4 @@ Balance Changes:
 Bug Fixes:
 + Fixed a rare bug that caused loading to hang.
 + Removed 1 precision decimals from item descriptions, and now all items use 2 decimal precision.
++ Fixed a small issue with the base (mis-aligned parts)
