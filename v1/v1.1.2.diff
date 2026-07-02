@@ -14,3 +14,4 @@ Bug Fixes:
 + Removed 1 precision decimals from item descriptions, and now all items use 2 decimal precision. [X]
 + Fixed a small issue with the base (mis-aligned parts) [X]
 + Ancient Scanner now acts like a real scanner, and the hitbox is fixed. [X]
++ Rebirth and Achievement items are now flagged as 'special' items, which means owning a Shiny Mythic will fill all index rewards below it (base, shiny, mythic). [X]
