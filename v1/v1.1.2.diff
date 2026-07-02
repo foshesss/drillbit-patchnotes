@@ -27,3 +27,4 @@ Bug Fixes:
 Other:
 + Winners of Thumbnail contest have been awarded their prize.
 + Added new thumbnails for the game. [X]
++ Reduced plot memory by a very large margin. Found a remnant of server-sided item rendering still existing, which has now been removed. [X]
