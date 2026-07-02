@@ -4,9 +4,10 @@ New Content:
 + Every 30 minutes, an event will trigger, giving every player a free boost. 
 + ALIEN INVASION!! A random event that drops up to 4 different unique items! Collect them around the map!
 
-Balance Changes:
+Changes:
 + Enchant skip price now adjusts based on time remaining. (1m, 5m, 15m, 30m, 45m, 1h, 2h, 3h, 6h, 12h, 18h, 24h, 30h, 36h, 42h, 48h)
 + Added a description to the Ore Glazer, indicating that it removes the 'Neon' effect. [X]
++ Brand new Centering Conveyor model, design idea by @tnt0gamer [X]
 
 Bug Fixes:
 + Overcharged ore no longer explodes after it's been processed. [X]
@@ -18,3 +19,6 @@ Bug Fixes:
 + Fixed a small issue with the base (mis-aligned parts) [X]
 + Ancient Scanner now acts like a real scanner, and the hitbox is fixed. [X]
 + Rebirth and Achievement items are now flagged as 'special' items, which means owning a Shiny Mythic will fill all index rewards below it (base, shiny, mythic). [X]
+
+Other:
++ Winners of Thumbnail contest have been awarded their prize.
