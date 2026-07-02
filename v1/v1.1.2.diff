@@ -9,6 +9,7 @@ Balance Changes:
 + Added a description to the Ore Glazer, indicating that it removes the 'Neon' effect. [X]
 
 Bug Fixes:
++ Computer with clocks set incorrectly can now see correct enchanting times (no longer using UTC time on the client).
 + Explosions no longer damage players, and now have a brand new look. [X]
 + Fixed a rare bug that caused loading to hang. This also fixes auto-rejoin occasionally breaking. [X]
 + Removed 1 precision decimals from item descriptions, and now all items use 2 decimal precision. [X]
