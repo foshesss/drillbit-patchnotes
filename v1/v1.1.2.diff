@@ -6,9 +6,11 @@ New Content:
 
 Balance Changes:
 + Enchant skip price now adjusts based on time remaining. (1m, 5m, 15m, 30m, 45m, 1h, 2h, 3h, 6h, 12h, 18h, 24h, 30h, 36h, 42h, 48h)
++ Added a description to the Ore Glazer, indicating that it removes the 'Neon' effect. [X]
 
 Bug Fixes:
 + Explosions no longer damage players, and now have a brand new look. [X]
 + Fixed a rare bug that caused loading to hang. This also fixes auto-rejoin occasionally breaking. [X]
 + Removed 1 precision decimals from item descriptions, and now all items use 2 decimal precision. [X]
 + Fixed a small issue with the base (mis-aligned parts) [X]
++ Ancient Scanner now acts like a real scanner, and the hitbox is fixed. [X]
