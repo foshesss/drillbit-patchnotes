@@ -23,6 +23,7 @@ Bug Fixes:
 + Fixed a small issue with the base (mis-aligned parts) [X]
 + Ancient Scanner now acts like a real scanner, and the hitbox is fixed. [X]
 + Rebirth and Achievement items are now flagged as 'special' items, which means owning a Shiny Mythic will fill all index rewards below it (base, shiny, mythic). [X]
++ Fixed cloned ore getting stuck in teleporter senders or sometimes not being upgraded. [X]
 
 Other:
 + Added a new event for the next update.
