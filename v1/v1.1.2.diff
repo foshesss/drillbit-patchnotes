@@ -5,7 +5,7 @@ New Content:
 + LIMITED EVENT: Alien Invasion! A random event that drops up to 4 different unique items! Collect them around the map!
 
 Changes:
-+ Enchant skip price now adjusts based on time remaining. (1m, 5m, 15m, 30m, 45m, 1h, 2h, 3h, 6h, 12h, 18h, 24h, 30h, 36h, 42h, 48h)
++ Enchant skip price now adjusts based on time remaining. (1m, 5m, 15m, 30m, 45m, 1h, 2h, 3h, 6h, 12h, 18h, 24h, 30h, 36h, 42h, 48h) [X]
 + Added a description to the Ore Glazer, indicating that it removes the 'Neon' effect. [X]
 + Brand new Centering Conveyor model, design idea by @tnt0gamer [X]
 + Enchanting is now 1.5x faster, if you're ingame.
