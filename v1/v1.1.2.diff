@@ -27,7 +27,7 @@ Bug Fixes:
 + Fixed cloned ore getting stuck in teleporter senders or sometimes not being upgraded. [X]
 
 Other:
-+ Added a new event for the next update.
++ Added a new event on the game page for the next update. [X]
 + Winners of Thumbnail contest have been awarded their prize.
 + Added new thumbnails for the game. [X]
 + Reduced plot memory by a very large margin. Found a remnant of server-sided item rendering still existing, which has now been removed. [X]
