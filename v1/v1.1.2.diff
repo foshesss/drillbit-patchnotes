@@ -11,6 +11,7 @@ Changes:
 + Enchanting is now 1.5x faster, if you're ingame. [X]
 
 Bug Fixes:
++ ! over Luck is now over luck, instead of below. [X]
 + Added an arrow to the Mastery in the onboarding. [X]
 + Alien Invasion (item) now has serials and appears in #crazy-unboxes . oops [X]
 + Mobile drag button no longer moves to the center of the plot after each placement.
