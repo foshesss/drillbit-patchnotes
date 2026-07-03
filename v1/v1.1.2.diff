@@ -14,7 +14,7 @@ Bug Fixes:
 + Alien Invasion (item) now has serials and appears in #crazy-unboxes . oops [X]
 + Mobile drag button no longer moves to the center of the plot after each placement.
 + Fixed an issue where selecting/removing the conveyor too quickly would break the tutorial. [X]
-+ Fixed an issue where removing selected conveyor step would completely break tutorial if you deselected.
++ Fixed an issue where removing selected conveyor step would completely break tutorial if you deselected. [X]
 + Overcharged ore no longer explodes after it's been processed. [X]
 + P2W, Achievement, and Rebirth items have been removed from the index, unless you own them. [X]
 + Computer with clocks set incorrectly can now see correct enchanting times (no longer using UTC time on the client).
