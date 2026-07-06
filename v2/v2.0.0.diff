@@ -10,12 +10,14 @@ New Content:
 Bug Fixes:
 + Fixed a few floating point issues with numbers in upgrade descriptions. [X]
 + Fixed the Scarabyte ore and icon [X]
++ Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data
 
 Changes:
-+ Axis Binding, while clicking and dragging to place, items will stay bound to the same line.
++ Axis Binding, while clicking and dragging to place, items will stay bound to the same line. -- note to self, no gaps
 + Box Select, to quickly select bulk items!
 + Brand new build mode, a menu instead of sidebar.
 + Adjustable keybinds (see settings)
 + All keybinds visible on screen, whenever relevant
 + Revamped settings, see your global stats
 + Plot was changed to accomodate more crates.
++ Placing an upgrader on top of another upgrader, if the conveyors align, and are the same direciton, will replace the upgrader/conveyor. -- reach goal
