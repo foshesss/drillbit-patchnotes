@@ -12,6 +12,7 @@ Bug Fixes:
 + Fixed the Scarabyte ore and icon [X]
 
 Changes:
++ Axis Binding, while clicking and dragging to place, items will stay bound to the same line.
 + Box Select, to quickly select bulk items!
 + Brand new build mode, a menu instead of sidebar.
 + Adjustable keybinds (see settings)
