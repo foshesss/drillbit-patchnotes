@@ -7,7 +7,12 @@ New Content:
 + ..Alien Event has ended..
 + Traveling Salesman, which has Alien Items (if you missed them), and brand new decoration items!
 
+Bug Fixes:
++ Fixed a few floating point issues with numbers in upgrade descriptions. [X]
++ Fixed the Scarabyte ore and icon [X]
+
 Changes:
++ Box Select, to quickly select bulk items!
 + Brand new build mode, a menu instead of sidebar.
 + Adjustable keybinds (see settings)
 + All keybinds visible on screen, whenever relevant
