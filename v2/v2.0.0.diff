@@ -102,6 +102,8 @@ New Build Mode:
 + All keybinds visible on screen, whenever relevant
 + Placing an upgrader on top of another upgrader, if the conveyors align, and are the same direciton, will replace the upgrader/conveyor. -- reach goal
 + Hide other bases setting (hide everybody else's base)
++ Withdraw all button
++ Remove mode, click on an item to remove it!
 + Shiny/Mythic items have an indictor in inventory.
 + Miner's Haven keybinds option.
 + Miner's Haven build mode, for mobile.
