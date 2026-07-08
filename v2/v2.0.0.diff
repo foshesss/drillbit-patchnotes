@@ -16,6 +16,7 @@ Balance Changes:
 + Uranium Ore is no longer affected by Toxic/Nuclear effects. Will not die to them.
 + Colossal Stone Dropper ore is now worth $1M at base. [X]
 + Enforced Upgrader no longer has an upgrade range. [X]
++ Sugarbomb lifespan has increased from 45-75 seconds to 60-75 seconds. [X]
 
 Bug Fixes:
 + Buffs are now visible when advanced stats are toggled.
