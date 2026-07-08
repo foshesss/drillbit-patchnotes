@@ -13,6 +13,7 @@ New Content:
 
 Balance Changes:
 + Uranium Ore is no longer affected by Toxic/Nuclear effects. Will not die to them.
++ Colossal Stone Dropper ore is now worth $1M at base.
 
 Bug Fixes:
 + Sandstone Ore now changes to glass whenever the fire effect is applied, not just by the Ore Flamethrower.
