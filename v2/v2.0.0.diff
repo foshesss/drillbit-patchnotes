@@ -95,6 +95,8 @@ New Build Mode:
 + Miner's Haven build mode, for mobile.
 + Items inside of enchanter are shown in inventory, with a beaker next to them to indicate they are being enchanted.
 + Searching for a crate in inventory shows items in that crate
++ Hover to view an item's name
++ Inspect to view an item's stats/tooltip
 
 Better Building Feedback:
 + Pop ups on base to show where ore is dying, which upgraders are failing, and where ore is getting stuck.
