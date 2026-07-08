@@ -32,6 +32,7 @@ Bug Fixes:
 
 Changes:
 + Potions now pause when the luck is being overriden.
++ New base indicator that tells you whose base is whose, and a teleport back to your base button.
 + New setting to force it to always be nighttime/daytime. Crystal comets will still happen on the same interval.
 + For new players, earn a free Legendary for turning on notifications.
 + Odds for items in crates now adjust based on your current luck.
