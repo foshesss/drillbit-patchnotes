@@ -28,6 +28,7 @@ Bug Fixes:
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 
 Changes:
++ Odds for items in crates now adjust based on your current luck.
 + Potion crafting now increments by '5', as opposed to one.
 + Revamped settings, see your global stats
 + Parasitic Fiend now fills all slots
