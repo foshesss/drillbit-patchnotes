@@ -41,6 +41,7 @@ Bug Fixes:
 Changes:
 + NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
 + NEW SETTING: Enable/disable leaderboard chat tags.
++ Plot was changed to accomodate more crates.
 + Droppers with neon ore now have a description indicating so.
 + Secrets show up in middle of screen when unboxxed.
 + Enabled resetting your avatar. [X]
@@ -75,7 +76,6 @@ New Build Mode:
 + Brand new build mode, a menu instead of sidebar.
 + Adjustable keybinds (see settings)
 + All keybinds visible on screen, whenever relevant
-+ Plot was changed to accomodate more crates.
 + Placing an upgrader on top of another upgrader, if the conveyors align, and are the same direciton, will replace the upgrader/conveyor. -- reach goal
 + Hide other bases setting (hide everybody else's base)
 + Shiny/Mythic items have an indictor in inventory.
