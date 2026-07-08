@@ -18,7 +18,7 @@ Balance Changes:
 + Enforced Upgrader no longer has an upgrade range. [X]
 
 Bug Fixes:
-+ Admin abuse effects, and current event now show when advanced stats are toggled.
++ Buffs are now visible when advanced stats are toggled.
 + Sandstone Ore now changes to glass whenever the fire effect is applied, not just by the Ore Flamethrower.
 + Fixed Parasitic Fiend description wording to be clearer. [X]
 + Fixed a few floating point issues with numbers in upgrade descriptions. [X]
