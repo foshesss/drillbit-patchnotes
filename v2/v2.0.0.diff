@@ -26,6 +26,7 @@ Bug Fixes:
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 
 Changes:
++ Potion crafting now increments by '5', as opposed to one.
 + Revamped settings, see your global stats
 + Parasitic Fiend now fills all slots
 + Enchant Skipping now scales off of previous prices. See prices below.
