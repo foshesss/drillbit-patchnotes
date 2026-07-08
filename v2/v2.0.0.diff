@@ -18,6 +18,7 @@ Balance Changes:
 + Enforced Upgrader no longer has an upgrade range. [X]
 + Sugarbomb lifespan has increased from 45-75 seconds to 60-75 seconds. [X]
 + Corium now recieves a 1.1x upgrade whenever it consumes another ore with an effect, with a cap of 8 consumptions. Any other consumption will stop upgrading the ore.
++ Increased speed of Azure Scanner from 6 studs/s -> 10 studs/s [X]
 
 Bug Fixes:
 + Buffs are now visible when advanced stats are toggled.
