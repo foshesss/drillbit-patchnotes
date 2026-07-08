@@ -86,6 +86,11 @@ Better Onboarding/Tutorial:
 Daily Gifts:
 + Every day, claim a gift that awards crystals, potions, and an item, based on how much money you have.
 
+Potion Menu:
++ NEW SETTING: Auto consume potions, no matter what.
++ Option to consume many potions at once.
++ Pop-up to say "are you sure you want to use X potions for X time?"
+
 New Build Mode:
 + Axis Binding, while clicking and dragging to place, items will stay bound to the same line. -- note to self, no gaps
 + Box Select, to quickly select bulk items!
