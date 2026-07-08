@@ -69,6 +69,10 @@ Cutscenes:
 + Cutscene on join, if a player has offline earnings.
 + Cutscene for unboxxing a Secret item
 
+Gifting rewards:
++ Give players items for gifting to other players.
++ Tiers for players that have gifted more, later tiers are mostly decorations.
+
 Better Onboarding/Tutorial:
 + Should give players goals until 2nd-3rd rebirth.
 + Nudge players to explore the map, find Periastron Crate.
