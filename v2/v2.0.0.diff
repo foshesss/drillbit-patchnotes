@@ -35,6 +35,7 @@ Bug Fixes:
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 
 Changes:
++ 'derpmonster83' in global announcements is now colored orange.
 + Potions now pause when the luck is being overriden.
 + New base indicator that tells you whose base is whose, and a teleport back to your base button.
 + New setting to force it to always be nighttime/daytime. Crystal comets will still happen on the same interval.
