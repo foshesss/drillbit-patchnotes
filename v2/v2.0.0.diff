@@ -13,7 +13,7 @@ Bug Fixes:
 + Fixed a few floating point issues with numbers in upgrade descriptions. [X]
 + Fixed the Scarabyte ore and icon [X]
 + Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data
-+ Fixed 'invalide code' inside of invalid code warning.
++ Fixed 'invalide code' inside of invalid code warning. [X]
 + Changed the event algorithm, to ensure parity across all timezones, CPU clocks, and pulling events at specific times. (fixes displaying wrong event, events happening early)
 + Offline Earning now works.
 + Fixed gui overlapping with current event and admin abuse.
