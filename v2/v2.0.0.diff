@@ -54,3 +54,4 @@ NEXT UPDATE:
 + All keybinds visible on screen, whenever relevant
 + Plot was changed to accomodate more crates.
 + Placing an upgrader on top of another upgrader, if the conveyors align, and are the same direciton, will replace the upgrader/conveyor. -- reach goal
++ Hide other bases setting (hide everybody else's base)
