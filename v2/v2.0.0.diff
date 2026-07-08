@@ -31,6 +31,7 @@ Bug Fixes:
 
 Changes:
 + Potions now pause when the luck is being overriden.
++ New setting to force it to always be nighttime/daytime. Crystal comets will still happen on the same interval.
 + For new players, earn a free Legendary for turning on notifications.
 + Odds for items in crates now adjust based on your current luck.
 + Potion crafting now increments by '5', as opposed to one.
