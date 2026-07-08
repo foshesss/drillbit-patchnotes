@@ -41,6 +41,7 @@ Bug Fixes:
 Changes:
 + NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
 + NEW SETTING: Enable/disable leaderboard chat tags.
++ Added a tooltip for the current potion you are upgrading to in the brewery.
 + If you are on a leaderboard, your name will be highlighted.
 + Plot was changed to accomodate more crates.
 + Droppers with neon ore now have a description indicating so.
