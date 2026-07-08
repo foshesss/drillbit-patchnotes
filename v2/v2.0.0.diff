@@ -53,7 +53,8 @@ legendary: 500k crystals
 secret: 2.5M crystals
 
 
-NEXT UPDATE:
+ROADMAP:
+New Build Mode:
 + Axis Binding, while clicking and dragging to place, items will stay bound to the same line. -- note to self, no gaps
 + Box Select, to quickly select bulk items!
 + Brand new build mode, a menu instead of sidebar.
@@ -62,3 +63,21 @@ NEXT UPDATE:
 + Plot was changed to accomodate more crates.
 + Placing an upgrader on top of another upgrader, if the conveyors align, and are the same direciton, will replace the upgrader/conveyor. -- reach goal
 + Hide other bases setting (hide everybody else's base)
++ Shiny/Mythic items have an indictor in inventory.
++ Miner's Haven keybinds option.
++ Miner's Haven build mode, for mobile.
++ Items inside of enchanter are shown in inventory, with a beaker next to them to indicate they are being enchanted.
+
+Better Building Feedback:
++ Pop ups on base to show where ore is dying, which upgraders are failing, and where ore is getting stuck.
+
+New Achievement Menu:
++ Option to see all previous tiers of an achievement
++ Effect when all tiers are completed for a given achievement.
++ Lego Universe style acheivement menu
+
+Layouts:
++ View which items you're missing from a layout
++ More information about last update
++ Renaming loadouts
++ Inspect a loadout closer to view which items are needed for a loaodout
