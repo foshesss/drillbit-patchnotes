@@ -70,6 +70,10 @@ Cutscenes:
 + Cutscene on join, if a player has offline earnings.
 + Cutscene for unboxxing a Secret item
 
+Leaderboard rewards:
++ Daily, weekly rewards
++ Seasons for rewards
+
 Gifting rewards:
 + Give players items for gifting to other players.
 + Tiers for players that have gifted more, later tiers are mostly decorations.
