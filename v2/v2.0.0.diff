@@ -54,6 +54,10 @@ secret: 2.5M crystals
 
 
 ROADMAP:
+Cutscenes:
++ Cutscene for new players, to show a high level overview of how the game works.
++ Cutscene on join, if a player has offline earnings.
+
 Daily Gifts:
 + Every day, claim a gift that awards crystals, potions, and an item, based on how much money you have.
 
