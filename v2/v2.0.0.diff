@@ -41,6 +41,7 @@ Bug Fixes:
 Changes:
 + NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
 + NEW SETTING: Enable/disable leaderboard chat tags.
++ Droppers with neon ore now have a description indicating so.
 + Secrets show up in middle of screen when unboxxed.
 + Enabled resetting your avatar. [X]
 + 'derpmonster83' in global announcements is now colored orange.
