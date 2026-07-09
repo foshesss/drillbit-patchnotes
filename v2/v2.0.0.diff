@@ -33,7 +33,7 @@ Bug Fixes:
 + Fixed gui overlapping with current event and admin abuse.
 + Unbox Slot potion now says increases unbox slots by +1 instead of 1%
 + Fixed a bug where enchanter didn't update immediately when on high ping.
-+ Removed effects from Crimson Pillars ore (it was reported to lag some clients).
++ Removed effects from Crimson Pillars ore (it was reported to lag some clients). [X]
 + Removed electrified visual perisisting after an ore is washed. [X]
 + Added an additional check to prevent ore from being stuck forever (removed Teleporting flag, and checks if a cloned ore hasn't moved after so many ticks)
 + Events have moved back to being every 30 minutes, at the top of the hour, not offset by 15 minutes.
