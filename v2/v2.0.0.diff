@@ -41,7 +41,7 @@ Bug Fixes:
 + Removed 'None' notification when no event is happening.
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
-+ If inventory errors/fails, it will automatically skip and complete, logging the change for fixing later. This fixes all people soft-locked in the inventory.
++ If tutorial errors/fails, it will automatically skip and complete, logging the change for fixing later. This fixes all people soft-locked in the inventory. [X]
 
 Changes:
 + NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
