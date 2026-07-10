@@ -28,18 +28,19 @@ epic: 100k crystals
 legendary: 500k crystals
 secret: 2.5M crystals
 
-ROADMAP:
-Cutscenes:
-+ Cutscene for new players, to show a high level overview of how the game works.
-+ Cutscene on join, if a player has offline earnings.
-+ Cutscene for unboxxing a Secret item
-
 Leaderboard rewards:
 + Daily, weekly rewards
 + Seasons for rewards
 
 Crate UI:
 + Show how many of a given crate you've unboxxed.
+
+ROADMAP:
+Cutscenes:
++ Cutscene for new players, to show a high level overview of how the game works.
++ Cutscene on join, if a player has offline earnings.
++ Cutscene for unboxxing a Secret item
+
 
 Gifting rewards:
 + Give players items for gifting to other players.
