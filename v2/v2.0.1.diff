@@ -1,6 +1,7 @@
 v2.0.1 - patches for update
 
 Bug Fixes:
++ Fixed Twitchium spawning when I'm not live/not spawning when I am live.
 + Offline Earning now works.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
