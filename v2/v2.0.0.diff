@@ -1,55 +1,56 @@
 v2.0.0 - decorations, summer, and traveling salesman!
 
 New Content:
-+ 2 New Summer Crates, which includes 13 new items. [X]
-+ New Twitch Secret, available in all crates, whenever derpmonster83 is live on Twitch. [X]
-+ New Rebirth! [X]
-+ ..Alien Event has ended.. [X]
-+ Traveling Salesman, which has Alien Items (if you missed them), and brand new decoration items! [X]
-+ New Enchanting mastery, Unbox Slot mastery, and Luck mastery upgrades. [X]
-+ Decorations! Decorate your base with up to 10 different decorations. More base decoration options to come soon! [X]
-+ Earn +2 Luck, and an EPIK decoration, by liking the game and joining the Derp LLC group. [X]
-+ NEW CODES: 'auxinite', 'intern', and 'sorryfordelay' [X]
-+ Added background music to the game. [X]
++ 2 New Summer Crates, which includes 13 new items.
++ New Twitch Secret, available in all crates, whenever derpmonster83 is live on Twitch.
++ New Rebirth!
++ ..Alien Event has ended..
++ Traveling Salesman, which has Alien Items (if you missed them), and brand new decoration items!
++ New Enchanting mastery, Unbox Slot mastery, and Luck mastery upgrades.
++ Decorations! Decorate your base with up to 10 different decorations. More base decoration options to come soon!
++ Earn +2 Luck, and an EPIK decoration, by liking the game and joining the Derp LLC group.
++ NEW CODES: 'auxinite', 'intern', and 'sorryfordelay'
++ Added background music to the game.
 
 Balance Changes:
-+ Uranium Ore is no longer affected by Toxic/Nuclear effects. Will not die to them. [X]
-+ Sandstone Ore is now immune to all fire effects, no matter the upgrader. [X]
-+ Colossal Stone Dropper ore is now worth $1M at base. [X]
-+ Enforced Upgrader no longer has an upgrade range. [X]
-+ Sugarbomb lifespan has increased from 45-75 seconds to 60-75 seconds. [X]
++ Uranium Ore is no longer affected by Toxic/Nuclear effects. Will not die to them.
++ Sandstone Ore is now immune to all fire effects, no matter the upgrader.
++ Colossal Stone Dropper ore is now worth $1M at base.
++ Enforced Upgrader no longer has an upgrade range.
++ Sugarbomb lifespan has increased from 45-75 seconds to 60-75 seconds.
 + Corium now recieves a 1.1x upgrade whenever it consumes another ore with an effect, with a cap of 8 consumptions. Any other consumption will stop upgrading the ore.
-+ Increased speed of Azure Scanner from 6 studs/s -> 10 studs/s [X]
-+ Maximum amount of money is now 1Ud, up from 1N. [X]
-+ Alien Crate price decreased to 25sx, down from 1Sp. [X]
++ Increased speed of Azure Scanner from 6 studs/s -> 10 studs/s
++ Maximum amount of money is now 1Ud, up from 1N.
++ Alien Crate price decreased to 25sx, down from 1Sp.
 
 Bug Fixes:
-+ Buffs are now visible when advanced stats are toggled. [X]
-+ Sandstone Ore now changes to glass whenever the fire effect is applied, not just by the Ore Flamethrower. [X]
-+ Fixed Parasitic Fiend description wording to be clearer. [X]
-+ Fixed a few floating point issues with numbers in upgrade descriptions. [X]
-+ Fixed the Scarabyte ore and icon [X]
-+ Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data [X]
-+ Fixed incorrect spelling inside of invalid code warning. [X]
-+ Changed the event algorithm, to ensure parity across all timezones and CPU clocks. (fixes displaying wrong event + events happening early) [X]
-+ Fixed gui overlapping with current event and admin abuse. [X]
-+ Unbox Slot potion now says increases unbox slots by +1 instead of 1% [X]
-+ Removed effects from Crimson Pillars ore (it was reported to lag some clients). [X]
-+ Removed electrified visual perisisting after an ore is washed. [X]
-+ Stuck cloned ore now gets destroyed, like non-cloned ore. [X]
-+ Events have moved back to being every 30 minutes, at the top of the hour, not offset by 15 minutes. [X]
-+ Removed 'None' notification when no event is happening. [X]
-+ If tutorial errors/fails, it will automatically skip and complete, logging the change for fixing later. This fixes all people soft-locked in the inventory. [X]
++ Buffs are now visible when advanced stats are toggled.
++ Sandstone Ore now changes to glass whenever the fire effect is applied, not just by the Ore Flamethrower.
++ Fixed Parasitic Fiend description wording to be clearer.
++ Fixed a few floating point issues with numbers in upgrade descriptions.
++ Fixed the Scarabyte ore and icon
++ Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data
++ Fixed incorrect spelling inside of invalid code warning.
++ Changed the event algorithm, to ensure parity across all timezones and CPU clocks. (fixes displaying wrong event + events happening early) 
++ Fixed gui overlapping with current event and admin abuse.
++ Unbox Slot potion now says increases unbox slots by +1 instead of 1%
++ Removed effects from Crimson Pillars ore (it was reported to lag some clients).
++ Removed electrified visual perisisting after an ore is washed.
++ Stuck cloned ore now gets destroyed, like non-cloned ore.
++ Events have moved back to being every 30 minutes, at the top of the hour, not offset by 15 minutes.
++ Removed 'None' notification when no event is happening.
++ If tutorial errors/fails, it will automatically skip and complete, logging the change for fixing later. This fixes all people soft-locked in the inventory.
++ Removed extra memory being allocated to plots on the Client
++ Reduced memory footprint of plots, potions, and daily events.
 
 Changes:
-+ NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval. [X]
-+ NEW SETTING: Enable/disable leaderboard chat tags. [X]
-+ Tutorial now force completes when you rejoin the game. [X]
-+ Plot was changed to accomodate more crates. [X]
-+ Enabled resetting your avatar. [X]
-+ Droppers with neon ore now have a description indicating so.
-+ 'derpmonster83' in global announcements is now colored orange. [X]
-+ Parasitic Fiend now retroactively fills index slots [X]
++ NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
++ NEW SETTING: Enable/disable leaderboard chat tags.
++ Tutorial now force completes when you rejoin the game.
++ Plot was changed to accomodate more crates.
++ Enabled resetting your avatar.
++ 'derpmonster83' in global announcements is now colored orange.
++ Parasitic Fiend now retroactively fills index slots
 
 
 PATCH LATER TONIGHT:
@@ -70,6 +71,7 @@ Changes:
 + Added a countdown to the premium shop for Limited items.
 + Revamped settings, see your global stats
 + Secrets show up in middle of screen when unboxxed.
++ Droppers with neon ore now have a description indicating so.
 
 + Enchant Skipping now scales off of previous prices. See prices below.
 common: 100 crystals
