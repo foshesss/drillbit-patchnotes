@@ -20,6 +20,8 @@ Balance Changes:
 + Sugarbomb lifespan has increased from 45-75 seconds to 60-75 seconds. [X]
 + Corium now recieves a 1.1x upgrade whenever it consumes another ore with an effect, with a cap of 8 consumptions. Any other consumption will stop upgrading the ore.
 + Increased speed of Azure Scanner from 6 studs/s -> 10 studs/s [X]
++ Maximum amount of money is now 1Ud, up from 1N. [X]
++ Alien Crate price decreased to 25sx, down from 1Sp. [X]
 
 Bug Fixes:
 + Buffs are now visible when advanced stats are toggled. [X]
