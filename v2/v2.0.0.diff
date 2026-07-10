@@ -1,12 +1,12 @@
 v2.0.0 - decorations, summer, and traveling salesman!
 
 New Content:
-+ 2 New Summer Crates, which includes 13 new items.
-+ New Twitch Secret, available in all crates, whenever derpmonster83 is live on Twitch.
++ 2 New Summer Crates, which includes 13 new items. [X]
++ New Twitch Secret, available in all crates, whenever derpmonster83 is live on Twitch. [X]
 + New Rebirth! [X]
 + ..Alien Event has ended.. [X]
 + Traveling Salesman, which has Alien Items (if you missed them), and brand new decoration items! [X]
-+ New Enchanting mastery, Unbox Slot mastery, and Luck mastery upgrades.
++ New Enchanting mastery, Unbox Slot mastery, and Luck mastery upgrades. [X]
 + Decorations! Decorate your base with up to 10 different decorations. More base decoration options to come soon! [X]
 + Earn +2 Luck, and a derp-themed decoration, by liking the game and joining the Derp LLC group. [X]
 + NEW CODE: 'auxinite'
@@ -22,46 +22,53 @@ Balance Changes:
 + Increased speed of Azure Scanner from 6 studs/s -> 10 studs/s [X]
 
 Bug Fixes:
-+ Buffs are now visible when advanced stats are toggled.
++ Buffs are now visible when advanced stats are toggled. [X]
 + Sandstone Ore now changes to glass whenever the fire effect is applied, not just by the Ore Flamethrower. [X]
 + Fixed Parasitic Fiend description wording to be clearer. [X]
 + Fixed a few floating point issues with numbers in upgrade descriptions. [X]
 + Fixed the Scarabyte ore and icon [X]
-+ Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data
++ Potion Timer and Event timer now update on the same interval, and update at the same speed. -- cache time, ends in unix, and then update whenever player rejoins. save leave time in data [X]
 + Fixed incorrect spelling inside of invalid code warning. [X]
-+ Changed the event algorithm, to ensure parity across all timezones and CPU clocks. (fixes displaying wrong event + events happening early)
-+ Offline Earning now works.
-+ Fixed gui overlapping with current event and admin abuse.
-+ Unbox Slot potion now says increases unbox slots by +1 instead of 1%
-+ Fixed a bug where enchanter didn't update immediately when on high ping.
++ Changed the event algorithm, to ensure parity across all timezones and CPU clocks. (fixes displaying wrong event + events happening early) [X]
++ Fixed gui overlapping with current event and admin abuse. [X]
++ Unbox Slot potion now says increases unbox slots by +1 instead of 1% [X]
 + Removed effects from Crimson Pillars ore (it was reported to lag some clients). [X]
 + Removed electrified visual perisisting after an ore is washed. [X]
 + Added an additional check to prevent ore from being stuck forever (removed Teleporting flag, and checks if a cloned ore hasn't moved after so many ticks)
-+ Events have moved back to being every 30 minutes, at the top of the hour, not offset by 15 minutes.
-+ Removed 'None' notification when no event is happening.
-+ Auto-buying a crate will continue, even if you cannot afford it after rejoining.
-+ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
++ Events have moved back to being every 30 minutes, at the top of the hour, not offset by 15 minutes. [X]
++ Removed 'None' notification when no event is happening. [X]
 + If tutorial errors/fails, it will automatically skip and complete, logging the change for fixing later. This fixes all people soft-locked in the inventory. [X]
 
 Changes:
-+ NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval.
-+ NEW SETTING: Enable/disable leaderboard chat tags.
++ NEW SETTING: Force nighttime/daytime. Crystal comets will still happen on the same interval. [X]
++ NEW SETTING: Enable/disable leaderboard chat tags. [X]
 + Tutorial now force completes when you rejoin the game. [X]
++ Plot was changed to accomodate more crates. [X]
++ Enabled resetting your avatar. [X]
++ Droppers with neon ore now have a description indicating so.
++ 'derpmonster83' in global announcements is now colored orange. [X]
++ Parasitic Fiend now retroactively fills index slots [X]
+
+
+PATCH LATER TONIGHT:
+
+Bug Fixes:
++ Offline Earning now works.
++ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
++ Auto-buying a crate will continue, even if you cannot afford it after rejoining.
+
+Changes:
 + Added a tooltip for the current potion you are upgrading to in the brewery.
 + If you are on a leaderboard, your name will be highlighted.
-+ Plot was changed to accomodate more crates.
-+ Droppers with neon ore now have a description indicating so.
-+ Secrets show up in middle of screen when unboxxed.
-+ Enabled resetting your avatar. [X]
-+ 'derpmonster83' in global announcements is now colored orange.
 + Potions now pause when the luck is being overriden.
 + New base indicator that tells you whose base is whose, and a teleport back to your base button.
 + For new players, earn a free Legendary for turning on notifications.
 + Odds for items in crates now adjust based on your current luck.
 + Potion crafting now increments by '5', as opposed to one.
-+ Revamped settings, see your global stats
-+ Parasitic Fiend now retroactively fills index slots [X]
 + Added a countdown to the premium shop for Limited items.
++ Revamped settings, see your global stats
++ Secrets show up in middle of screen when unboxxed.
+
 + Enchant Skipping now scales off of previous prices. See prices below.
 common: 100 crystals
 uncommon: 500 crystals
@@ -69,7 +76,6 @@ rare: 10K crystals
 epic: 100k crystals
 legendary: 500k crystals
 secret: 2.5M crystals
-
 
 ROADMAP:
 Cutscenes:
