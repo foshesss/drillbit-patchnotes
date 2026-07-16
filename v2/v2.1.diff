@@ -8,6 +8,9 @@ Bug Fixes:
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
 + Updated Corium's description to reflect new behavior. [X]
 + Intern Dropper no longer falls apart. [X]
++ Fixed Electric Overdrive's upgrade hitbox. [X]
++ Electric Overdrive now fills it's index retroactively. [X]
++ Made notifications appear over menus. [X]
 
 Balance Changes:
 + Reduced price of Ocean Crate to 10Oc, from 1N. [X]
@@ -16,12 +19,13 @@ Balance Changes:
 - Applying Frost effect to an ore with Fire effect will destroy the ore. [X]
 - Applying Fire effect to an ore with Frost effect will destroy the ore. [X]
 + Changed Godly Stone Dropper to be Secret tier. [X]
-+ Added stats to Godly Stone Dropper, Star Scanner, Starlight Enhancer [X]
++ Added stats to Godly Stone Dropper, Star Scanner, Starlight Enhancer, and Dream Machine [X]
 
 Changes:
 + Traveling Merchant is now unique per player. [X]
 + Added a tooltip for the current potion you are upgrading to in the brewery. [X]
-+ Added a countdown to the premium shop for Limited items.
++ Added a countdown to the premium shop for Limited items. [X]
++ Added Submitter Trophies for submitters to use on their base. [X]
 
 Changes:
 + If you are on a leaderboard, your name will be highlighted.
