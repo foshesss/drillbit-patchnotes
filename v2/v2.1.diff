@@ -11,6 +11,7 @@ Bug Fixes:
 + Fixed Electric Overdrive's upgrade hitbox. [X]
 + Electric Overdrive now fills it's index retroactively. [X]
 + Made notifications appear over menus. [X]
++ Fixed Tutorial breaking on Mastery step. [X]
 
 Balance Changes:
 + Reduced price of Ocean Crate to 10Oc, from 1N. [X]
