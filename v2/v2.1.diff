@@ -2,16 +2,14 @@ v2.1 - patches for update
 
 Bug Fixes:
 + Fixed Twitchium spawning when I'm not live/not spawning when I am live. [X]
-+ Offline Earning now works.
-+ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
-+ Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
 + Updated Corium's description to reflect new behavior. [X]
 + Intern Dropper no longer falls apart. [X]
-+ Fixed Electric Overdrive's and Anchor Upgprader's upgrade hitbox. [X]
++ Fixed Electric Overdrive's and Anchor Upgrader's upgrade hitbox. [X]
 + Electric Overdrive now fills it's index retroactively. [X]
 + Made notifications appear over menus. [X]
 + Fixed Tutorial breaking on Mastery step. [X]
++ Added the Clear Base button back to the game. [X]
 
 Balance Changes:
 + Reduced price of Ocean Crate to 10Oc, from 1N. [X]
@@ -24,9 +22,16 @@ Balance Changes:
 
 Changes:
 + Traveling Merchant is now unique per player. [X]
++ Traveling Merchant now appears every hour, instead of randomly. [X]
 + Added a tooltip for the current potion you are upgrading to in the brewery. [X]
 + Added a countdown to the premium shop for Limited items. [X]
 + Added Submitter Trophies for submitters to use on their base. [X]
+
+
+Bug Fixes:
++ Offline Earning now works.
++ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
++ Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 
 Changes:
 + If you are on a leaderboard, your name will be highlighted.
