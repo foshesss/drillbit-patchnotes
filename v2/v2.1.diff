@@ -20,16 +20,16 @@ Balance Changes:
 
 Changes:
 + Traveling Merchant is now unique per player. [X]
++ Added a tooltip for the current potion you are upgrading to in the brewery. [X]
++ Added a countdown to the premium shop for Limited items.
 
 Changes:
-+ Added a tooltip for the current potion you are upgrading to in the brewery.
 + If you are on a leaderboard, your name will be highlighted.
 + Potions now pause when the luck is being overriden.
 + New base indicator that tells you whose base is whose, and a teleport back to your base button.
 + For new players, earn a free Legendary for turning on notifications.
 + Odds for items in crates now adjust based on your current luck.
 + Potion crafting now increments by '5', as opposed to one.
-+ Added a countdown to the premium shop for Limited items.
 + Revamped settings, see your global stats
 + Secrets show up in middle of screen when unboxxed.
 + Droppers with neon ore now have a description indicating so.
