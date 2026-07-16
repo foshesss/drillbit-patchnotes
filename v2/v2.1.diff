@@ -1,11 +1,15 @@
 v2.1 - patches for update
 
 Bug Fixes:
-+ Fixed Twitchium spawning when I'm not live/not spawning when I am live.
++ Fixed Twitchium spawning when I'm not live/not spawning when I am live. [X]
 + Offline Earning now works.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
+
+Balance Changes:
++ Reduced price of Ocean Crate to 25Oc, from 1N.
+
 
 Changes:
 + Added a tooltip for the current potion you are upgrading to in the brewery.
