@@ -8,7 +8,7 @@ Bug Fixes:
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
 + Updated Corium's description to reflect new behavior. [X]
 + Intern Dropper no longer falls apart. [X]
-+ Fixed Electric Overdrive's upgrade hitbox. [X]
++ Fixed Electric Overdrive's and Anchor Upgprader's upgrade hitbox. [X]
 + Electric Overdrive now fills it's index retroactively. [X]
 + Made notifications appear over menus. [X]
 + Fixed Tutorial breaking on Mastery step. [X]
