@@ -4,6 +4,7 @@ Bug Fixes:
 + Fixed Twitchium spawning when I'm not live/not spawning when I am live. [X]
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
 + Updated Corium's description to reflect new behavior. [X]
++ Corium no longer eats other Corium ore. [X]
 + Intern Dropper no longer falls apart. [X]
 + Fixed Electric Overdrive's and Anchor Upgrader's upgrade hitbox. [X]
 + Electric Overdrive now fills it's index retroactively. [X]
