@@ -1,0 +1,33 @@
+v2.0.7 - some patches, more tmrw
+
+Bug Fixes:
++ Fixed Twitchium spawning when I'm not live/not spawning when I am live. [X]
++ Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
++ Updated Corium's description to reflect new behavior. [X]
++ Corium no longer eats other Corium ore. [X]
++ Intern Dropper no longer falls apart. [X]
++ Fixed Electric Overdrive's and Anchor Upgrader's upgrade hitbox. [X]
++ Electric Overdrive now fills it's index retroactively. [X]
++ Made notifications appear over menus. [X]
++ Fixed Tutorial breaking on Mastery step. [X]
++ Added the Clear Base button back to the game. [X]
++ Atlantis Remnant description now reflects mythic/shiny multiplier. [X]
++ Fixed Ore Glazer description typo. [X]
++ Tiki Evaluator upgrade is now in sync with the color/symbol at the top. [X]
++ Removed dev console print every time an effect is added. [X]
+
+Balance Changes:
++ Reduced price of Ocean Crate to 10Oc, from 1N. [X]
+- Decreased chance of unboxing Military Dropper to 1/150M, from 1/50M. [X]
+- Decreased chance of unboxing Twitchium Dropper to 1/183M, from 1/83M. [X]
+- Applying Frost effect to an ore with Fire effect will destroy the ore. [X]
+- Applying Fire effect to an ore with Frost effect will destroy the ore. [X]
++ Changed Godly Stone Dropper to be Secret tier. [X]
++ Added stats to Godly Stone Dropper, Star Scanner, Starlight Enhancer, and Dream Machine [X]
+
+Changes:
++ Traveling Merchant is now unique per player. [X]
++ Traveling Merchant now appears every hour, instead of randomly. [X]
++ Added a tooltip for the current potion you are upgrading to in the brewery. [X]
++ Added a countdown to the premium shop for Limited items. [X]
++ Added Submitter Trophies for submitters to use on their base. [X]
