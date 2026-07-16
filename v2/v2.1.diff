@@ -6,7 +6,8 @@ Bug Fixes:
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
-+ Updated Corium's description to reflect new behavior. [X]w
++ Updated Corium's description to reflect new behavior. [X]
++ Intern Dropper no longer falls apart. [X]
 
 Balance Changes:
 + Reduced price of Ocean Crate to 10Oc, from 1N. [X]
@@ -14,7 +15,8 @@ Balance Changes:
 - Decreased chance of unboxing Twitchium Dropper to 1/183M, from 1/83M. [X]
 - Applying Frost effect to an ore with Fire effect will destroy the ore. [X]
 - Applying Fire effect to an ore with Frost effect will destroy the ore. [X]
-+ Added stats to Godly Stone Dropper
++ Changed Godly Stone Dropper to be Secret tier. [X]
++ Added stats to Godly Stone Dropper, Star Scanner, Starlight Enhancer [X]
 
 Changes:
 + Traveling Merchant is now unique per player. [X]
