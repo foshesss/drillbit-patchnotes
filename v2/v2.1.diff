@@ -6,6 +6,7 @@ Bug Fixes:
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
++ Updated Corium's description to reflect new behavior. [X]w
 
 Balance Changes:
 + Reduced price of Ocean Crate to 10Oc, from 1N. [X]
