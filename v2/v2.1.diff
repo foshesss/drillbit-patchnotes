@@ -15,6 +15,7 @@ Bug Fixes:
 + Offline Earning now works.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
++ Fixed submitters not getting their submitter trophies. [X]
 
 Balance Changes:
 + Enchant Skipping now scales off of previous prices. See prices below.
