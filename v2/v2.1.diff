@@ -1,54 +1,22 @@
 v2.1 - patches for update
 
-Bug Fixes:
-+ Fixed Twitchium spawning when I'm not live/not spawning when I am live. [X]
-+ Forbidden Gate now correctly shows how many crystals you need to purchase. [X]
-+ Updated Corium's description to reflect new behavior. [X]
-+ Corium no longer eats other Corium ore. [X]
-+ Intern Dropper no longer falls apart. [X]
-+ Fixed Electric Overdrive's and Anchor Upgrader's upgrade hitbox. [X]
-+ Electric Overdrive now fills it's index retroactively. [X]
-+ Made notifications appear over menus. [X]
-+ Fixed Tutorial breaking on Mastery step. [X]
-+ Added the Clear Base button back to the game. [X]
-+ Atlantis Remnant description now reflects mythic/shiny multiplier. [X]
-+ Fixed Ore Glazer description typo. [X]
-+ Tiki Evaluator upgrade is now in sync with the color/symbol at the top. [X]
-+ Removed dev console print every time an effect is added. [X]
-
-Balance Changes:
-+ Reduced price of Ocean Crate to 10Oc, from 1N. [X]
-- Decreased chance of unboxing Military Dropper to 1/150M, from 1/50M. [X]
-- Decreased chance of unboxing Twitchium Dropper to 1/183M, from 1/83M. [X]
-- Applying Frost effect to an ore with Fire effect will destroy the ore. [X]
-- Applying Fire effect to an ore with Frost effect will destroy the ore. [X]
-+ Changed Godly Stone Dropper to be Secret tier. [X]
-+ Added stats to Godly Stone Dropper, Star Scanner, Starlight Enhancer, and Dream Machine [X]
-
 Changes:
-+ Traveling Merchant is now unique per player. [X]
-+ Traveling Merchant now appears every hour, instead of randomly. [X]
-+ Added a tooltip for the current potion you are upgrading to in the brewery. [X]
-+ Added a countdown to the premium shop for Limited items. [X]
-+ Added Submitter Trophies for submitters to use on their base. [X]
-
++ 2 New Crates have appeared with a countdown! [X]
++ New base indicator that tells you whose base is whose, and a teleport back to your base button.
++ Potions now pause when the luck is being overriden.
++ Potion crafting now increments by '5', as opposed to one.
++ If you are on a leaderboard, your name will be highlighted.
++ Odds for items in crates now adjust based on your current luck.
++ Show how many of a given crate you've unboxxed.
++ Droppers with neon ore now have a description indicating so. [X]
 
 Bug Fixes:
++ Factory Crate items are no logner out of order. [X]
 + Offline Earning now works.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 
-Changes:
-+ If you are on a leaderboard, your name will be highlighted.
-+ Potions now pause when the luck is being overriden.
-+ New base indicator that tells you whose base is whose, and a teleport back to your base button.
-+ For new players, earn a free Legendary for turning on notifications.
-+ Odds for items in crates now adjust based on your current luck.
-+ Potion crafting now increments by '5', as opposed to one.
-+ Revamped settings, see your global stats
-+ Secrets show up in middle of screen when unboxxed.
-+ Droppers with neon ore now have a description indicating so.
-
+Balance Changes:
 + Enchant Skipping now scales off of previous prices. See prices below.
 common: 100 crystals
 uncommon: 500 crystals
@@ -57,14 +25,20 @@ epic: 100k crystals
 legendary: 500k crystals
 secret: 2.5M crystals
 
+
+
+
+
+ROADMAP:
+Changes:
++ For new players, earn a free Legendary for turning on notifications.
++ Revamped settings, see your global stats
++ Secrets show up in middle of screen when unboxxed.
+
 Leaderboard rewards:
 + Daily, weekly rewards
 + Seasons for rewards
 
-Crate UI:
-+ Show how many of a given crate you've unboxxed.
-
-ROADMAP:
 Cutscenes:
 + Cutscene for new players, to show a high level overview of how the game works.
 + Cutscene on join, if a player has offline earnings.
