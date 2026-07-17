@@ -11,7 +11,7 @@ Changes:
 + Droppers with neon ore now have a description indicating so. [X]
 
 Bug Fixes:
-+ Factory Crate items are no logner out of order. [X]
++ Factory Crate items are no longer out of order. [X]
 + Offline Earning now works.
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
