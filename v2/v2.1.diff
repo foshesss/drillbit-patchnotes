@@ -13,7 +13,7 @@ Changes:
 Bug Fixes:
 + Factory Crate items are no longer out of order. [X]
 + Offline Earning now works.
-+ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping. 
++ Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping.  [X]
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Fixed submitters not getting their submitter trophies. [X]
 
