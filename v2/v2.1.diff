@@ -9,9 +9,9 @@ Changes:
 + Odds for items in crate billboard ui (when you walk up to it) now adjust based on your current luck. [X]
 + Show how many of a given crate you've unboxxed.
 + Droppers with neon ore now have a description indicating so. [X]
-+ You can now copy decorations
-+ Firework is no longer visible by default in your inventory
-+ Decorations are no longer darkened when hovering over them.
++ You can now copy decorations [X]
++ Firework is no longer visible by default in your inventory [X]
++ Decorations are no longer darkened when hovering over them. [X]
 
 Bug Fixes:
 + Factory Crate items are no longer out of order. [X]
