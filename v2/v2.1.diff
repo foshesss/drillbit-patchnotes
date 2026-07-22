@@ -10,7 +10,7 @@ QoL Changes:
 + New base indicator that tells you whose base is whose, and a teleport back to your base button. [X]
 + Potions now pause when the luck is being overriden. [X]
 + Potion crafting now increments by '5' (required amount for crafitng), as opposed to just one. [X]
-+ If you are on a leaderboard, your name will be highlighted.
++ If you are on a leaderboard, your leaderboard entry will be highlighted. [X]
 + Show how many of a given crate you've unboxxed.
 
 
