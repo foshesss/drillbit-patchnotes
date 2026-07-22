@@ -25,6 +25,7 @@ Bug Fixes:
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping.
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining. [X]
 + Fixed submitters not getting their submitter trophies. [X]
++ Leaderboard chat tags now show up immediately on join (no longer loads over time after joining) [X]
 
 Balance Changes:
 + Minefield Refiner destruction chance reduced from 50% to 30%. [X]
