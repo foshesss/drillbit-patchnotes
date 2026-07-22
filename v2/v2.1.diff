@@ -25,6 +25,7 @@ Bug Fixes:
 + Fixed submitters not getting their submitter trophies. [X]
 
 Balance Changes:
++ Minefield Refiner destruction chance reduced from 50% to 30%. [X]
 + Enchant Skipping now scales off of previous prices. See prices below. [X]
 common: 100 crystals
 uncommon: 500 crystals
