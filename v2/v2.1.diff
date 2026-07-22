@@ -21,7 +21,7 @@ Bug Fixes:
 + Firework is no longer visible by default in your inventory [X]
 + Decorations are no longer darkened when hovering over them. [X]
 + Factory Crate items are no longer out of order. [X]
-+ Offline Earning now works.
++ Offline Earning now works. [X]
 + Enchanter no longer flashes an expensive price before adjusting to the correct price for skipping.
 + Auto-buying a crate will continue, even if you cannot afford it after rejoining.
 + Fixed submitters not getting their submitter trophies. [X]
