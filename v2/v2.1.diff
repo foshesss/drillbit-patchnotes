@@ -27,6 +27,8 @@ Bug Fixes:
 + Fixed submitters not getting their submitter trophies. [X]
 + Leaderboard chat tags now show up immediately on join (no longer loads over time after joining) [X]
 + Tooltip no longer stays on screen when alt tabbing or losing focus of the game. [X]
++ Removed black specs from the Coral Furnace icon [X]
++ Fixed Shiny version of Alien Invasion icon. [X]
 
 Balance Changes:
 + Minefield Refiner destruction chance reduced from 50% to 30%. [X]
