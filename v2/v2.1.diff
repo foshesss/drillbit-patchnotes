@@ -7,7 +7,7 @@ Changes:
 QoL Changes:
 + Droppers with neon ore now have a description indicating so. [X]
 + Odds for items in crate billboard ui (when you walk up to it) now adjust based on your current luck. [X]
-+ New base indicator that tells you whose base is whose, and a teleport back to your base button.
++ New base indicator that tells you whose base is whose, and a teleport back to your base button. [X]
 + Potions now pause when the luck is being overriden. [X]
 + Potion crafting now increments by '5', as opposed to one.
 + If you are on a leaderboard, your name will be highlighted.
