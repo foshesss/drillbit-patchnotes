@@ -9,7 +9,7 @@ QoL Changes:
 + Odds for items in crate billboard ui (when you walk up to it) now adjust based on your current luck. [X]
 + New base indicator that tells you whose base is whose, and a teleport back to your base button. [X]
 + Potions now pause when the luck is being overriden. [X]
-+ Potion crafting now increments by '5' (required amount for crafitng), as opposed to just one. [X]
++ Potion crafting now increments by '5' (required amount for crafting), as opposed to just one. [X]
 + If you are on a leaderboard, your leaderboard entry will be highlighted. [X]
 + Show how many of a given crate you've unboxxed.
 
