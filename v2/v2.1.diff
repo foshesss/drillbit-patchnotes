@@ -14,6 +14,7 @@ QoL Changes:
 
 
 Bug Fixes:
++ Ore is no longer destroyed when it touches a base wall. [X]
 + You can now copy decorations [X]
 + Firework is no longer visible by default in your inventory [X]
 + Decorations are no longer darkened when hovering over them. [X]
