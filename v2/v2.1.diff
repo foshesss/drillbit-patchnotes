@@ -13,7 +13,6 @@ QoL Changes:
 + If you are on a leaderboard, your leaderboard entry will be highlighted. [X]
 + Show how many of a given crate you've unboxxed.
 
-
 Bug Fixes:
 + Ore is no longer destroyed when it touches a base wall. [X]
 + You can now copy decorations [X]
@@ -29,6 +28,7 @@ Bug Fixes:
 + Tooltip no longer stays on screen when alt tabbing or losing focus of the game. [X]
 + Removed black specs from the Coral Furnace icon [X]
 + Fixed Shiny version of Alien Invasion icon. [X]
++ Removed Pineapple Ore's texture, so it can now be visually Neon and change color with Rainbow effect. [X]
 
 Balance Changes:
 + Minefield Refiner destruction chance reduced from 50% to 30%. [X]
