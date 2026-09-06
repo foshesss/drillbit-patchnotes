@@ -4,11 +4,22 @@ Bug Fixes:
 + Days logged in now increments even if you never leave the game.
 + Clover Upgrader is now anchored and usable.
 + Luck Machine (on base) no longer has a collision.
++ You can now craft one potion (previously could not craft less than 2 potions).
 
 Changes:
 + People with enough playtime to justify days logged in have been adjusted.
 + New Build Mode, which includes Box Select, Axis Binding, and tons of new filters
++ Added a Mailbox, which will tell you about updates (no longer need to read this)
++ Rewrote gifting logic, also added support for Mail, which will be used during special events.
 
 Balance Changes:
 + Decreased Life 8 Rebirth price: 1Ud -> 50N 
 + Added 2 new tiles of space for Life 8.
+
+Nerd Info:
++ Added the ability for testers to modify items on the fly.
++ Added the ability for testers to simulate rolls.
++ Added the ability for testers to simulate merchant rolls.
+
++ Started cleaning up the codebase. Removing old code, duplicate code, 
+
