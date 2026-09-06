@@ -12,8 +12,6 @@ Changes:
 + Added a Mailbox, which will tell you about updates (no longer need to read this)
 + Rewrote gifting logic, also added support for Mail, which will be used during special events.
 
-+ Added 8 new thumbnails to the game.
-
 Balance Changes:
 + Decreased Life 8 Rebirth price: 1Ud -> 50N 
 + Added 2 new tiles of space for Life 8.
@@ -22,6 +20,7 @@ Nerd Info:
 + Added the ability for testers to modify items on the fly.
 + Added the ability for testers to simulate rolls.
 + Added the ability for testers to simulate merchant rolls.
++ Added 8 new thumbnails to the game.
 
-+ Started cleaning up the codebase. Removing old code, duplicate code, 
++ Started cleaning up the codebase. Removing old code, duplicate code, and generally bad code (surely nothing broke!)
 
