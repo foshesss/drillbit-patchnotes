@@ -1,0 +1,14 @@
+v3.0.0 - back to working on the game
+
+Bug Fixes:
++ Days logged in now increments even if you never leave the game.
++ Clover Upgrader is now anchored and usable.
++ Luck Machine (on base) no longer has a collision.
+
+Changes:
++ People with enough playtime to justify days logged in have been adjusted.
++ New Build Mode, which includes Box Select, Axis Binding, and tons of new filters
+
+Balance Changes:
++ Decreased Life 8 Rebirth price: 1Ud -> 50N 
++ Added 2 new tiles of space for Life 8.
